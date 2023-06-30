@@ -1,0 +1,411 @@
+№0
+Question: Why does looking up at the sun make you sneeze?
+Context ([3521144.]): ptolemy's family ruled egypt until the roman conquest of 30 bc. all the male rulers of the dynasty took the name ptolemy. ptolemaic queens, some of whom were the sisters of their husbands, were usually called cleopatra, arsinoe or berenice. the most famous member of the line was the last queen, cleopatra vii, known for her role in the roman political battles between julius caesar and pompey, and later between octavian and mark antony. her suicide at the conquest by rome marked the end of ptolemaic rule in egypt though hellenistic culture continued to thrive in egypt throughout the roman and byzantine periods until the muslim conquest.
+Model answer Looking up at the sun makes you sneeze because the sun's ultraviolet rays can trigger an allergic reaction in some people.
+Right answer = It's called the "Photic sneeze reflex" and it's not present in everyone.  I personally don't sneeze *just* because of sunlight, but I do know that if I feel a sneeze coming on and I want to trigger it, looking at bright lights helps trigger the sneeze.. . Check out the link below for Cecil Adams' answer.
+
+
+№1
+Question: How do you get window clings to regain their static?
+Context ([56794472.]): linguists, including valencian scholars, deal with catalan and valencian as the same language. the official regulating body of the language of the valencian community, the valencian academy of language ( academia valenciana de la llengua, avl ) declares the linguistic unity between valencian and catalan varieties.
+Model answer To get window clings to regain their static, you can use a window cling de-staticizer. Simply apply the de-staticizer to the window cling and wait for the static to disappear.
+Right answer = Put it back on the dispensing roll.  When you peel it off, the static charge will return.
+
+
+№2
+Question: Why is the sky blue instead of black like at night?
+Context ([912248.]): even before washington returned, dinwiddie had sent a company of 40 men under william trent to that point, where in the early months of 1754 they began construction of a small stockaded fort. governor duquesne sent additional french forces under claude - pierre pecaudy de contrecœur to relieve saint - pierre during the same period, and contrecœur led 500 men south from fort venango on april 5, 1754. when these forces arrived at the fort on april 16, contrecœur generously allowed trent's small company to withdraw. he purchased their construction tools to continue building what became fort duquesne.
+Model answer The sky is blue because of the scattering of sunlight by molecules in the Earth's atmosphere. At night, the sky is black because there is no sunlight to scatter.
+Right answer = The angle of refraction of the sunlight as it comes through the atmosphere. At sunset the colors change because the angle gets steeper. Its like a prism.
+
+
+№3
+Question: What is the difference between ASP.NET 1.1 and ASP.NET 2.0?
+Context ([14244985.]): in world war ii, charles de gaulle and the free french used the overseas colonies as bases from which they fought to liberate france. however after 1945 anti - colonial movements began to challenge the empire. france fought and lost a bitter war in vietnam in the 1950s. whereas they won the war in algeria, the french leader at the time, charles de gaulle, decided to grant algeria independence anyway in 1962. its settlers and many local supporters relocated to france. nearly all of france's colonies gained independence by 1960, but france retained great financial and diplomatic influence. it has repeatedly sent troops to assist its former colonies in africa in suppressing insurrections and coups d ’ etat.
+Model answer The main difference between ASP.NET 1.1 and ASP.NET 2.0 is that ASP.NET 2.0 is an updated version of ASP.NET 1.1. ASP.NET 2.0 has a number of new features, such as improved support for web services, improved security, and improved support for XML. Additionally, ASP.NET 2.0 has a number of new features, such as improved support for web services, improved security, and improved support for XML. Additionally, ASP.NET 2.0 has a number of new features, such as improved support for web
+Right answer = There are bunch of new controls to reduce line of code. like login functionality , impersonation , master pages etc. . No major change in the architecture of asp.net
+
+
+№4
+Question: How do teach someone quadratics?
+Context ([7572112.]): puritans were blocked from changing the established church from within, and were severely restricted in england by laws controlling the practice of religion. their beliefs, however, were transported by the emigration of congregations to the netherlands ( and later to new england ), and by evangelical clergy to ireland ( and later into wales ), and were spread into lay society and parts of the educational system, particularly certain colleges of the university of cambridge. they took on distinctive beliefs about clerical dress and in opposition to the episcopal system, particularly after the 1619 conclusions of the synod of dort they were resisted by the english bishops. they largely adopted sabbatarianism in the 17th century, and were influenced by millennialism.
+Model answer Teaching someone about quadratics can be done in a variety of ways. First, it is important to understand the basics of quadratics. Quadratics are equations of the form ax2 + bx + c = 0, where a, b, and c are constants. These equations can be solved using the quadratic formula. Second, it is important to understand how to graph quadratics. Third, it is important to understand how to solve quadratics. Fourth, it is important to understand how to find the roots of quadratics. Fifth, it is important to understand how to
+Right answer = dont worry- she'll just ask fren 4 his. I just copy pasted some stuff from BBC bitesize
+
+
+№5
+Question: How likely am I to get motion sickness on a plane?
+Context ([9820286.]): the monreale mosaics constitute the largest decoration of this kind in italy, covering 0, 75 hectares with at least 100 million glass and stone tesserae. this huge work was executed between 1176 and 1186 by the order of king william ii of sicily. the iconography of the mosaics in the presbytery is similar to cefalu while the pictures in the nave are almost the same as the narrative scenes in the cappella palatina. the martorana mosaic of roger ii blessed by christ was repeated with the figure of king william ii instead of his predecessor. another panel shows the king offering the model of the cathedral to the theotokos.
+Model answer The monreale mosaics constitute the largest decoration of this kind in Italy, covering 0.75 hectares with at least 100 million glass and stone tesserae. This huge work was executed between 1176 and 1186 by the Order of King William II of Sicily. The iconography of the mosaics in the presbytery is similar to Cefalu while the pictures in the nave are almost the same as the narrative scenes in the Cappella Palatina. The Martorana mosaic of Roger II blessed by
+Right answer = Some people get motion sickness while trveling in car especially in the back seats,  And some when the plane is taking off or while landing.  This is due to the internal ear problem which is  being affected by the atmospheric  pressure or problem itself in the internal ear.
+
+
+№6
+Question: What are cooties?
+Context ([84494.]): the evolution of seed plants and later angiosperms appears to be the result of two distinct rounds of whole genome duplication events. these occurred at 319 million years ago and 192 million years ago. another possible whole genome duplication event at 160 million years ago perhaps created the ancestral line that led to all modern flowering plants. that event was studied by sequencing the genome of an ancient flowering plant, amborella trichopoda, and directly addresses darwin's " abominable mystery. "
+Model answer Cooties are imaginary germs that are passed from person to person.
+Right answer = its what girls have cuz they are gross lol. just a childish game kids play. probably not allowed anymore because of diversity and that the american school system sucks but i used to get cooties when i was a kid ha ha good times
+
+
+№7
+Question: what does the legal term stip cause mean?
+Context ([1948707.]): the rhine ( romansh : rein, german : rhein, french : le rhin, dutch : rijn ) is a european river that begins in the swiss canton of graubunden in the southeastern swiss alps, forms part of the swiss - austrian, swiss - liechtenstein border, swiss - german and then the franco - german border, then flows through the rhineland and eventually empties into the north sea in the netherlands. the biggest city on the river rhine is cologne, germany with a population of more than 1, 050, 000 people. it is the second - longest river in central and western europe ( after the danube ), at about 1, 230 km ( 760 mi ), [ note 2 ] [ note 1 ] with an average discharge of about 2, 900 m3 / s ( 100, 000 cu ft / s ).
+Model answer The legal term "stip cause" refers to a cause of action that is based on a stipulation or agreement between the parties.
+Right answer = It means a stipulated (that is, essential, required or agreed upon) cause of action.. . A "cause of action" is the reason for a lawsuit.. . See link:
+
+
+№8
+Question: how can I delete my attachments?
+Context ([1410940.]): the late georgian period saw the birth of the semi - detached house, planned systematically, as a suburban compromise between the terraced houses of the city and the detached " villas " further out, where land was cheaper. there had been occasional examples in town centres going back to medieval times. most early suburban examples are large, and in what are now the outer fringes of central london, but were then in areas being built up for the first time. blackheath, chalk farm and st john's wood are among the areas contesting being the original home of the semi. sir john summerson gave primacy to the eyre estate of st john's wood. a plan for this exists dated 1794, where " the whole development consists of pairs of semi - detached houses, so far as i know, this is the first recorded scheme of the kind ". in fact the french wars put an end to this scheme, but when the development was finally built it retained the semi - detached form, " a revolution of striking significance and far - reaching effect ".
+Model answer To delete your attachments, you can use the "Delete" button on the Attachments page.
+Right answer = If you're talking about received attachments, I believe that when you delete the email, the attachment associated with it will be deleted as well.  This is how the email program we use at work (Eudora) functions.
+
+
+№9
+Question: what is graphical method?
+Context ([59571.]): arthur collier published similar assertions though there seems to have been no influence between the two contemporary writers. the only knowable reality is the represented image of an external object. matter as a cause of that image, is unthinkable and therefore nothing to us. an external world as absolute matter unrelated to an observer does not exist as far as we are concerned. the universe cannot exist as it appears if there is no perceiving mind. collier was influenced by an essay towards the theory of the ideal or intelligible world by " cambridge platonist " john norris ( 1701 ).
+Model answer A graphical method is a method of representing data visually in order to make it easier to understand and interpret. This method was developed by Arthur Collier, who published similar assertions though there seems to have been no influence between the two contemporary writers. The only knowable reality is the represented image of an external object. Matter as a cause of that image, is unthinkable and therefore nothing to us. An external world as absolute matter unrelated to an observer does not exist as far as we are concerned. The universe cannot exist as it appears if there is no perceiving mind. Collier was influenced by an
+Right answer = I assume you are talking about vector analysis.  The graphical method would be drawing the vectors head to tail and to scale. and then drawing in the resultant and using your ruler and protractor to measure the displacement and angle.
+
+
+№10
+Question: how to disable retry message when refreshing web page?
+Context ([39330736.]): in 1955, the diaries of napoleon's valet, louis marchand, were published. his description of napoleon in the months before his death led sten forshufvud in a 1961 paper in nature to put forward other causes for his death, including deliberate arsenic poisoning. arsenic was used as a poison during the era because it was undetectable when administered over a long period. forshufvud, in a 1978 book with ben weider, noted that napoleon's body was found to be remarkably well preserved when moved in 1840. arsenic is a strong preservative, and therefore this supported the poisoning hypothesis. forshufvud and weider observed that napoleon had attempted to quench abnormal thirst by drinking large amounts of orgeat syrup that contained cyanide compounds in the almonds used for flavouring.
+Model answer To disable the retry message when refreshing a web page, you can use the following code:
+document.getElementById("retry-message").style.display = "none";
+Right answer = Sorry, it's impossible.  It's a security and safety feature.
+
+
+№11
+Question: why are we on answers at 4am?
+Context ([963865.]): major league baseball is especially well known for red teams. the cincinnati red stockings are the oldest professional baseball team, dating back to 1869. the franchise soon relocated to boston and is now the atlanta braves, but its name survives as the origin for both the cincinnati reds and boston red sox. during the 1950s when red was strongly associated with communism, the modern cincinnati team was known as the " redlegs " and the term was used on baseball cards. after the red scare faded, the team was known as the " reds " again. the los angeles angels of anaheim are also known for their color red, as are the st. louis cardinals, arizona diamondbacks, and the philadelphia phillies.
+Model answer Why are we on answers at 4am?
+The answer to this question is that we are on answers at 4am because it is 4am and people are looking for answers.
+Right answer = Different Countries Have Different Times.. :). Its 6pm Now In Singapore.. :)
+
+
+№12
+Question: How do I clean between the keys on my cell phone?
+Context ([3151953.]): indigenous peoples of brazil make up 0. 4 % of brazil's population, or about 700, 000 people, even though millions of brazilians have some indigenous ancestry. indigenous peoples are found in the entire territory of brazil, although the majority of them live in indian reservations in the north and center - western part of the country. on january 18, 2007, funai reported that it had confirmed the presence of 67 different uncontacted tribes in brazil, up from 40 in 2005. with this addition brazil has now overtaken the island of new guinea as the country having the largest number of uncontacted tribes.
+Model answer To clean between the keys on your cell phone, you can use a cotton swab dipped in rubbing alcohol. Gently swipe the cotton swab between the keys to remove any dirt or debris.
+Right answer = I'd use a moistened Q-tip, or one of those keyboard blower things in a can with the thing long, tip. That always works...
+
+
+№13
+Question: Why do we send Christmas cards?
+Context ([179516.]): the time warner cable music pavilion at walnut creek hosts major international touring acts. in 2011, the downtown raleigh amphitheater opened ( now sponsored as the red hat amphitheater ), which hosts numerous concerts primarily in the summer months. an additional amphitheater sits on the grounds of the north carolina museum of art, which hosts a summer concert series and outdoor movies. nearby cary is home to the koka booth amphitheatre which hosts additional summer concerts and outdoor movies, and serves as the venue for regularly scheduled outdoor concerts by the north carolina symphony based in raleigh. during the north carolina state fair, dorton arena hosts headline acts. the private lincoln theatre is one of several clubs in downtown raleigh that schedules many concerts throughout the year in multiple formats ( rock, pop, country ).
+Model answer We send Christmas cards as a way to express our love and appreciation for our friends and family. It is a way to show that we are thinking of them during the holiday season.
+Right answer = A sense of social obligation and reciprocity. I.e., other people send you cards, you feel you must send them cards.. . Sometimes people are just nice, and like to send cards.
+
+
+№14
+Question: why is it legal to advertise beer and noy cigarettes?
+Context ([36840348.]): the sumerian city - states rose to power during the prehistoric ubaid and uruk periods. sumerian written history reaches back to the 27th century bc and before, but the historical record remains obscure until the early dynastic iii period, c. the 23rd century bc, when a now deciphered syllabary writing system was developed, which has allowed archaeologists to read contemporary records and inscriptions. classical sumer ends with the rise of the akkadian empire in the 23rd century bc. following the gutian period, there is a brief sumerian renaissance in the 21st century bc, cut short in the 20th century bc by semitic amorite invasions. the amorite " dynasty of isin " persisted until c. 1700 bc, when mesopotamia was united under babylonian rule. the sumerians were eventually absorbed into the akkadian ( assyro - babylonian ) population.
+Model answer The reason why it is legal to advertise beer but not cigarettes is because cigarettes are considered to be a harmful substance, while beer is considered to be a safe substance.
+Right answer = because beer is acceptable to society and cigarettes are not. both are equally bad for the body. and minus the smell smokers are a whole lot better to hang out with, well as aposed to drunks. try video taping a drunk person and show it to them later not a pretty show.
+
+
+№15
+Question: how do i get rid of the hiccups?
+Context ([17784840.]): the world's oldest football competition is the fa cup, which was founded by c. w. alcock and has been contested by english teams since 1872. the first official international football match also took place in 1872, between scotland and england in glasgow, again at the instigation of c. w. alcock. england is also home to the world's first football league, which was founded in birmingham in 1888 by aston villa director william mcgregor. the original format contained 12 clubs from the midlands and northern england.
+Model answer Get rid of the hiccups by taking a deep breath, holding it for a few seconds, and then exhaling slowly. You can also try drinking a glass of cold water, or eating a spoonful of sugar.
+Right answer = Concentrate on breathing in and out slowly. Hiccups are caused by spasms in the diaphragm and by concentrating on breathing, you are actually thinking about moving your diaphragm and, for some reason, that usually tends to stop the hiccups after a couple of minutes.
+
+
+№16
+Question: Why do Saturns get that weird paint, shading, coloring and peeling on the side doors?
+Context ([2.9137565e+08]): like many cities in central and eastern europe, infrastructure in warsaw suffered considerably during its time as an eastern bloc economy – though it is worth mentioning that the initial three - year plan to rebuild poland ( especially warsaw ) was a major success, but what followed was very much the opposite. however, over the past decade warsaw has seen many improvements due to solid economic growth, an increase in foreign investment as well as funding from the european union. in particular, the city's metro, roads, sidewalks, health care facilities and sanitation facilities have improved markedly.
+Model answer Saturns get that weird paint, shading, coloring and peeling on the side doors because of the materials used in the manufacturing process.
+Right answer = Saturn uses plastic dent-resistant door and side panels, has for years.  It's great if you plan on hitting your car with a golf club now and then (which is more likely since it's a Saturn), but other than that it just makes the paint oxidize more quickly.
+
+
+№17
+Question: is there a way to find out what something previously sold for on ebay?
+Context ([3266855.]): all government officers of the united states, including the president, the justices of the supreme court, state judges and legislators, and all members of congress, pledge first and foremost to uphold the constitution. these oaths affirm that the rule of law is superior to the rule of any human leader. at the same time, the federal government has considerable discretion : the legislative branch is free to decide what statutes it will write, as long as it stays within its enumerated powers and respects the constitutionally protected rights of individuals. likewise, the judicial branch has a degree of judicial discretion, and the executive branch also has various discretionary powers including prosecutorial discretion.
+Model answer Yes, there is a way to find out what something previously sold for on eBay. You can search for the item on eBay and look at the completed listings. This will give you an idea of what the item sold for in the past.
+Right answer = Yup.  Go to eBay and search .. there's a box that says "Completed Auctions" .. check that, and the search results will be from auctions that are closed.
+
+
+№18
+Question: What can I do to prevent getting eye infections?
+Context ([1853349.]): their final aircraft design, the silver dart, embodied all of the advancements found in the earlier machines. on february 23, 1909, bell was present as the silver dart flown by j. a. d. mccurdy from the frozen ice of bras d'or, made the first aircraft flight in canada. bell had worried that the flight was too dangerous and had arranged for a doctor to be on hand. with the successful flight, the aea disbanded and the silver dart would revert to baldwin and mccurdy who began the canadian aerodrome company and would later demonstrate the aircraft to the canadian army.
+Model answer To prevent getting eye infections, it is important to wash your hands regularly, avoid touching your eyes, and wear protective eyewear when working with hazardous materials. Additionally, it is important to get regular eye exams to check for any signs of infection.
+Right answer = It can be your contact lenses. I've been through the same problems and the eye doctor said it was my contacts why don't you change brands that worked for me
+
+
+№19
+Question: What is the difference between a bibliography and a reference list?
+Context ([3407037.]): the formation of the party was formally announced at sydney town hall on 31 august 1945. it took the name " liberal " in honour of the old commonwealth liberal party. the new party was dominated by the remains of the old uap ; with few exceptions, the uap party room became the liberal party room. the australian women's national league, a powerful conservative women's organisation, also merged with the new party. a conservative youth group menzies had set up, the young nationalists, was also merged into the new party. it became the nucleus of the liberal party's youth division, the young liberals. by september 1945 there were more than 90, 000 members, many of whom had not previously been members of any political party.
+Model answer The difference between a bibliography and a reference list is that a bibliography is a list of sources used in a research project, while a reference list is a list of citations used in a research project.
+Right answer = In a reference list you list, by author's last name, all sources cited in your "work" (dissertation, thesis, article, etc.).  In a bibliography, you list all sources read, whether you cited them or not.
+
+
+№20
+Question: what is a pandemic opposed to an epidemic?
+Context ([11720434.]): the usa patriot act of october 2001 dramatically reduces restrictions on law enforcement agencies'ability to search telephone, e - mail communications, medical, financial, and other records ; eases restrictions on foreign intelligence gathering within the united states ; expands the secretary of the treasury's authority to regulate financial transactions, particularly those involving foreign individuals and entities ; and broadens the discretion of law enforcement and immigration authorities in detaining and deporting immigrants suspected of terrorism - related acts. the act also expanded the definition of terrorism to include domestic terrorism, thus enlarging the number of activities to which the usa patriot act's expanded law enforcement powers could be applied. a new terrorist finance tracking program monitored the movements of terrorists'financial resources ( discontinued after being revealed by the new york times ). global telecommunication usage, including those with no links to terrorism, is being collected and monitored through the nsa electronic surveillance program. the patriot act is still in effect.
+Model answer A pandemic is a global outbreak of an infectious disease, while an epidemic is a local outbreak of an infectious disease.
+Right answer = A pandemic is an epidemic occurring over a very wide area, crossing international boundaries and usually affecting a large number of people. A global epidemic.. . An epidemic is a widespread outbreak of an infectious disease; many people are infected at the same time
+
+
+№21
+Question: how 2 find out if a slogen is copyrited?
+Context ([28381648.]): during mutualistic symbioses, the host cell lacks some of the nutrients, which are provided by the endosymbiont. as a result, the host favors endosymbiont's growth processes within itself by producing some specialized cells. these cells affect the genetic composition of the host in order to regulate the increasing population of the endosymbionts and ensuring that these genetic changes are passed onto the offspring via vertical transmission ( heredity ).
+Model answer To find out if a slogan is copyrighted, you can search the US Patent and Trademark Office (USPTO) database to see if the slogan has been registered as a trademark. You can also search the US Copyright Office database to see if the slogan has been registered as a copyright.
+Right answer = Well you will need to do a copyright search for the words... but judging by your spelling here you should not have a problem with what you may have come with.... but check anyhow... some things you can find easily, others will need a lawyer. Best of luck to you...
+
+
+№22
+Question: How does image search work?
+Context ([372657.]): in book 11 of his confessions, st. augustine of hippo ruminates on the nature of time, asking, " what then is time? if no one asks me, i know : if i wish to explain it to one that asketh, i know not. " he begins to define time by what it is not rather than what it is, an approach similar to that taken in other negative definitions. however, augustine ends up calling time a “ distention ” of the mind ( confessions 11. 26 ) by which we simultaneously grasp the past in memory, the present by attention, and the future by expectation.
+Model answer Image search works by using an image recognition algorithm to analyze an image and return relevant results. The algorithm analyzes the image for features such as color, shape, and texture, and then searches for similar images in a database. The results are then ranked according to relevance.
+Right answer = It searches the title, name, and captions of images, and the texts assigned to them. Some times it uses the title of the page the image was used in too.
+
+
+№23
+Question: Why do popes choose a new name for themselves?
+Context ([2637514.]): the phenomenon known as " passing as white " is difficult to explain in other countries or to foreign students. typical questions are : " shouldn't americans say that a person who is passing as white is white, or nearly all white, and has previously been passing as black? " or " to be consistent, shouldn't you say that someone who is one - eighth white is passing as black? "... a person who is one - fourth or less american indian or korean or filipino is not regarded as passing if he or she intermarries with and joins fully the life of the dominant community, so the minority ancestry need not be hidden.... it is often suggested that the key reason for this is that the physical differences between these other groups and whites are less pronounced than the physical differences between african blacks and whites, and therefore are less threatening to whites.... [ w ] hen ancestry in one of these racial minority groups does not exceed one - fourth, a person is not defined solely as a member of that group.
+Model answer The phenomenon known as " passing as white " is difficult to explain in other countries or to foreign students. Typical questions are: " Shouldn't Americans say that a person who is passing as white is white, or nearly all white, and has previously been passing as black? " or " To be consistent, shouldn't you say that someone who is one-eighth white is passing as black? ... A person who is one-fourth or less American Indian or Korean or Filipino is not regarded as passing if he or she intermarries with and joins fully the life of the dominant community, so the
+Right answer = "Since 533, the new Pope has also decided on the name by which he is to be called at this time. Pope John II was the first to adopt a new papal name; he felt that his original name, Mercurius, was inappropriate, as it was also the name of a Roman god. In most cases, even if such considerations are absent, Popes tend to choose new papal names; the last Pope to reign under his baptismal name was Pope Marcellus II (1555)."
+
+
+№24
+Question: WHY CAN'T I STOP EATING BOOGERS?
+Context ([13626189.]): in simple terms the structure of the alps consists of layers of rock of european, african and oceanic ( tethyan ) origin. the bottom nappe structure is of continental european origin, above which are stacked marine sediment nappes, topped off by nappes derived from the african plate. the matterhorn is an example of the ongoing orogeny and shows evidence of great folding. the tip of the mountain consists of gneisses from the african plate ; the base of the peak, below the glaciated area, consists of european basement rock. the sequence of tethyan marine sediments and their oceanic basement is sandwiched between rock derived from the african and european plates.
+Model answer The structure of the Alps consists of layers of rock of European, African and Oceanic (Tethyan) origin. The bottom nappe structure is of continental European origin, above which are stacked marine sediment nappes, topped off by nappes derived from the African plate. The Matterhorn is an example of the ongoing orogeny and shows evidence of great folding. The tip of the mountain consists of gneisses from the African plate; the base of the peak, below the glaciated area, consists of European basement rock. The sequence of Tethyan marine sed
+Right answer = Does it make you a cannibal if you eat your own boogers? Seriously though. Thats disgusting. At least you are not sculpting things with them.
+
+
+№25
+Question: how to stop vomit?
+Context ([113219.]): airborne interception radar ( ai ) was unreliable. the heavy fighting in the battle of britain had eaten up most of fighter command's resources, so there was little investment in night fighting. bombers were flown with airborne search lights out of desperation [ citation needed ], but to little avail. of greater potential was the gl ( gunlaying ) radar and searchlights with fighter direction from raf fighter control rooms to begin a gci system ( ground control - led interception ) under group - level control ( no. 10 group raf, no. 11 group raf and no. 12 group raf ).
+Model answer The best way to stop vomiting is to stay hydrated. Drink plenty of fluids, such as water, juice, or sports drinks. Avoid alcohol, caffeine, and carbonated beverages, as these can make vomiting worse. Eating small, frequent meals can also help reduce nausea.
+Right answer = Well, if you are talking about vomiting because of a smell or other people vomiting.. . Take your mind away from it, if something smells real bad, try to think of something that smells like it.  This will help you think that it's not that bad.. . Otherwise, if you're sick, let it out; if you're drunk, let it out; and if you're poisoned, contact your local poison control center or hospital.
+
+
+№26
+Question: What are the responsibilities of my guardian angel?
+Context ([2736581.]): a cd is read by focusing a 780 nm wavelength ( near infrared ) semiconductor laser housed within the cd player, through the bottom of the polycarbonate layer. the change in height between pits and lands results in a difference in the way the light is reflected. by measuring the intensity change with a photodiode, the data can be read from the disc. in order to accommodate the spiral pattern of data, the semiconductor laser is placed on a swing arm within the disc tray of any cd player. this swing arm allows the laser to read information from the centre to the edge of a disc, without having to interrupt the spinning of the disc itself.
+Model answer The responsibilities of your guardian angel include protecting you from harm, guiding you through difficult times, and providing comfort and support.
+Right answer = To keep you on the path that will eventually lead you to the cross--whether that road is rocky or smooth.. . In answer to OpenAndy's question below, read Matthew 18:10
+
+
+№27
+Question: How do energy drinks work?
+Context ([55257.]): charles vii of france ordered his chamberlain to climb mont aiguille in 1356. the knight reached the summit of rocciamelone where he left a bronze triptych of three crosses, a feat which he conducted with the use of ladders to traverse the ice. in 1492 antoine de ville climbed mont aiguille, without reaching the summit, an experience he described as " horrifying and terrifying. " leonardo da vinci was fascinated by variations of light in the higher altitudes, and climbed a mountain — scholars are uncertain which one ; some believe it may have been monte rosa. from his description of a " blue like that of a gentian " sky it is thought that he reached a significantly high altitude. in the 18th century four chamonix man almost made the summit of mont blanc but were overcome by altitude sickness and snowblindness.
+Model answer Energy drinks work by providing a boost of caffeine and other stimulants, such as taurine, guarana, and ginseng. These ingredients help to increase alertness, improve concentration, and provide an energy boost. Energy drinks also contain sugar and other sweeteners, which provide a quick source of energy.
+Right answer = Energy drinks pump you with caffeine and most have some kind of citrus extract in it.. All that caffeine is the main ingredient that forces you awake. For me, I can swallow 2 caffeine tablets and gulp down a coupla' energy drinks and I'd still sleep like a log.
+
+
+№28
+Question: how come you dont have a religon categore?
+Context ([18742734.]): during the period between 1582, when the first countries adopted the gregorian calendar, and 1923, when the last european country adopted it, it was often necessary to indicate the date of some event in both the julian calendar and in the gregorian calendar, for example, " 10 / 21 february 1750 / 51 ", where the dual year accounts for some countries already beginning their numbered year on 1 january while others were still using some other date. even before 1582, the year sometimes had to be double dated because of the different beginnings of the year in various countries. woolley, writing in his biography of john dee ( 1527 – 1608 / 9 ), notes that immediately after 1582 english letter writers " customarily " used " two dates " on their letters, one os and one ns.
+Model answer The reason we don't have a religion category is because it is too broad of a topic. We have categories for specific religions, but not for religion in general.
+Right answer = first of all, i don't know why you posted this in the electronics category. Second, there is a religion category here. It's under society and culture!
+
+
+№29
+Question: How can we stop global- warming?
+Context ([1138714.]): myanmar ( myan - mar i / miɑːnˈmɑːr / mee - ahn - mar, / miˈɛnmɑːr / mee - en - mar or / maɪˈænmɑːr / my - an - mar ( also with the stress on first syllable ) ; burmese pronunciation : [ mjəma ] ), [ nb 1 ] officially the republic of the union of myanmar and also known as burma, is a sovereign state in southeast asia bordered by bangladesh, india, china, laos and thailand. one - third of myanmar's total perimeter of 1, 930 km ( 1, 200 miles ) forms an uninterrupted coastline along the bay of bengal and the andaman sea. the country's 2014 census revealed a much lower population than expected, with 51 million people recorded. myanmar is 676, 578 square kilometres ( 261, 227 sq mi ) in size. its capital city is naypyidaw and its largest city is yangon ( rangoon ).
+Model answer The best way to stop global warming is to reduce the amount of greenhouse gases released into the atmosphere. This can be done by switching to renewable energy sources, such as solar and wind power, and by reducing the use of fossil fuels, such as coal and oil. Additionally, we can reduce the amount of carbon dioxide released into the atmosphere by planting more trees.
+Right answer = The easiest thing would be to switch all cars to hybrid.  Right now.  The technology is here.  Wind power now costs less than coal, but our government keeps giving money to the coal industry because of lobbyists.
+
+
+№30
+Question: what is the real meaning of meaning?
+Context ([159550.]): the port of palermo, founded by the phoenicians over 2, 700 years ago, is, together with the port of messina, the main port of sicily. from here ferries link palermo to cagliari, genoa, livorno, naples, tunis and other cities and carry a total of almost 2 million passengers annually. it is also an important port for cruise ships. traffic includes also almost 5 million tonnes of cargo and 80. 000 teu yearly. the port also has links to minor sicilian islands such as ustica and the aeolian islands ( via cefalu in summer ). inside the port of palermo there is a section known as " tourist marina " for sailing yachts and catamarans.
+Model answer The real meaning of "meaning" is the purpose or significance of something.
+Right answer = the real meaning of meaning is "meaning" :). . The dictionary says this. "Something that is conveyed or signified; sense or significance."
+
+
+№31
+Question: Why do some women purpously try to aggravate there boyfriend/husband just to see how much they can take?
+Context ([1.464055e+08]): the graph isomorphism problem is the computational problem of determining whether two finite graphs are isomorphic. an important unsolved problem in complexity theory is whether the graph isomorphism problem is in p, np - complete, or np - intermediate. the answer is not known, but it is believed that the problem is at least not np - complete. if graph isomorphism is np - complete, the polynomial time hierarchy collapses to its second level. since it is widely believed that the polynomial hierarchy does not collapse to any finite level, it is believed that graph isomorphism is not np - complete. the best algorithm for this problem, due to laszlo babai and eugene luks has run time 2o ( √ ( n log ( n ) ) ) for graphs with n vertices.
+Model answer The answer is not known, but it is believed that the problem is at least not np - complete. If graph isomorphism is np - complete, the polynomial time hierarchy collapses to its second level. Since it is widely believed that the polynomial hierarchy does not collapse to any finite level, it is believed that graph isomorphism is not np - complete.
+Right answer = Shes playing you!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! in a good way though. She loves so so so much, you have to recognise it bro!
+
+
+№32
+Question: what's the scariest weather situation you've experienced?
+Context ([17829366.]): a major sporting event is the " independence day sports festival " held annually on 1 october. the most important sports event within the country is arguably the tuvalu games, which are held yearly since 2008. tuvalu first participated in the pacific games in 1978 and in the commonwealth games in 1998, when a weightlifter attended the games held at kuala lumpur, malaysia. two table tennis players attended the 2002 commonwealth games in manchester, england ; tuvalu entered competitors in shooting, table tennis and weightlifting at the 2006 commonwealth games in melbourne, australia ; three athletes participated in the 2010 commonwealth games in delhi, india, entering the discus, shot put and weightlifting events ; and a team of 3 weightlifters and 2 table tennis players attended the 2014 commonwealth games in glasgow. tuvaluan athletes have also participated in the men's and women's 100 metre sprints at the world championships in athletics from 2009.
+Model answer The scariest weather situation I've experienced was during a major sporting event in 2014. The event was the Commonwealth Games in Glasgow, Scotland, and it was the first time Tuvalu had ever participated in the games. The weather was extremely hot and humid, and the athletes were struggling to stay hydrated and cool. It was a major challenge for the athletes to perform at their best, and it was a major challenge for the organizers to keep the athletes safe and healthy.
+Right answer = Taking off in a puddle-jumper from Farmington, NM airport right when a very strong cold front hit the airport.  We had to fly into the front then make a U-turn after we took off.  In the air, the plane plane slid sideways for what felt like 100 ft., and the rest of the trip the plane kept dropping and rising like a roller-coaster.
+
+
+№33
+Question: How to get a US visa?
+Context ([1033075.]): pharrell's shorts. discuss. ( side note : his wife's suit is fierce. ) # oscarsredcarpet andpop ( @ andpop ) march 3, 2014
+Model answer To get a US visa, you must first apply for a visa at a US embassy or consulate in your home country. You will need to provide proof of citizenship, a valid passport, and a visa application form. You will also need to pay a visa application fee. Once your application is approved, you will be issued a visa.
+Right answer = You should contact the US embassy in your country to get information on how to apply for a Visa. There's many different ones, student visas, tourist visas, work visas, so you really should speak with someone at the embassy.
+
+
+№34
+Question: how do air brakes work?
+Context ([30534.]): the 1920s, with tourism at its peak, are considered by many historians as atlantic city's golden age. during prohibition, which was enacted nationally in 1919 and lasted until 1933, much liquor was consumed and gambling regularly took place in the back rooms of nightclubs and restaurants. it was during prohibition that racketeer and political boss enoch l. " nucky " johnson rose to power. prohibition was largely unenforced in atlantic city, and, because alcohol that had been smuggled into the city with the acquiescence of local officials could be readily obtained at restaurants and other establishments, the resort's popularity grew further. the city then dubbed itself as " the world's playground ". nucky johnson's income, which reached as much as $ 500, 000 annually, came from the kickbacks he took on illegal liquor, gambling and prostitution operating in the city, as well as from kickbacks on construction projects.
+Model answer Air brakes work by using compressed air to apply pressure to the brake shoes, which in turn apply friction to the wheels, slowing or stopping the vehicle.
+Right answer = air pressure holds the brakes in the "off" position. when you apply the brakes, air is released from the system causing the shoes to close. if for some reason the system develops a leak, the brakes will engage and lock up. that's why you have to let the air pressure build up in a rig before releasing the parking brake, no air pressure means no brake release.
+
+
+№35
+Question: What are the negative impacts of the mission and effectiveness of the Mcdonalds corporation?
+Context ([35278624.]): a few hard rock bands from the 1970s and 1980s managed to sustain highly successful recording careers. bon jovi were still able to achieve a commercial hit with " it's my life " from their double platinum - certified album crush ( 2000 ). and ac / dc released the platinum - certified stiff upper lip ( 2000 ) aerosmith released a number two platinum album, just push play ( 2001 ), which saw the band foray further into pop with the top 10 hit " jaded ", and a blues cover album, honkin'on bobo, which reached number five in 2004. heart achieved their first top 10 album since the early 90s with red velvet car in 2010, becoming the first female - led hard rock band to earn top 10 albums spanning five decades. there were reunions and subsequent tours from van halen ( with hagar in 2004 and then roth in 2007 ), the who ( delayed in 2002 by the death of bassist john entwistle until 2006 ) and black sabbath ( with osbourne 1997 – 2006 and dio 2006 – 2010 ) and even a one off performance by led zeppelin ( 2007 ), renewing the interest in previous eras. additionally, hard rock supergroups, such as audioslave ( with former members of rage against the machine and soundgarden ) and velvet revolver ( with former members of guns n'roses, punk band wasted youth and stone temple pilots singer scott weiland ), emerged and experienced some success. however, these bands were short - lived, ending in 2007 and 2008, respectively. the long awaited guns n'roses album chinese democracy was finally released in 2008, but only went platinum and failed to come close to the success of the band's late 1980s and early 1990s material. more successfully, ac / dc released the double platinum - certified black ice ( 2008 ). bon jovi continued to enjoy success, branching into country music with " who says you can't go home ", which reached number one on the hot country singles chart in 2006, and the rock / country album lost highway, which reached number one in 2007. in 2009, bon jovi released another number one album, the circle, which marked a return to their hard rock sound.
+Model answer The negative impacts of the mission and effectiveness of the Mcdonalds corporation include:
+1. Increased competition from other fast food chains, such as Burger King, Wendy's, and Chick-fil-A.
+2. Decreased customer loyalty due to increased competition.
+3. Decreased customer satisfaction due to decreased customer loyalty.
+4. Decreased sales due to decreased customer satisfaction.
+5. Decreased profits due to decreased sales.
+Right answer = Watch "Supersize Me".  It's great and explains a lot about this subject.
+
+
+№36
+Question: why does ph affect the rate of digestion in proteins?
+Context ([8574266.]): the x3. 2 subcommittee designed ascii based on the earlier teleprinter encoding systems. like other character encodings, ascii specifies a correspondence between digital bit patterns and character symbols ( i. e. graphemes and control characters ). this allows digital devices to communicate with each other and to process, store, and communicate character - oriented information such as written language. before ascii was developed, the encodings in use included 26 alphabetic characters, 10 numerical digits, and from 11 to 25 special graphic symbols. to include all these, and control characters compatible with the comite consultatif international telephonique et telegraphique ( ccitt ) international telegraph alphabet no. 2 ( ita2 ) standard, fieldata, and early ebcdic, more than 64 codes were required for ascii.
+Model answer Ph affects the rate of digestion in proteins because it is a measure of the acidity or alkalinity of a substance. When proteins are digested, they are broken down into amino acids, which are then absorbed by the body. Ph affects the rate of digestion because it affects the pH of the stomach, which in turn affects the rate at which proteins are broken down.
+Right answer = The enzymes in the stomach require a certain pH for the amino acids in them to work properly. So, when the pH is optimum, the amino acids are in their correct ionic state. This enables the enzymes to function properly in digestion.
+
+
+№37
+Question: How does stock exchange work?
+Context ([391419.]): in september 2003, a military coup was conducted. the military arrested iala on the charge of being " unable to solve the problems ". after being delayed several times, legislative elections were held in march 2004. a mutiny of military factions in october 2004 resulted in the death of the head of the armed forces and caused widespread unrest.
+Model answer The stock exchange works by allowing investors to buy and sell shares of publicly traded companies. Investors can buy and sell shares of publicly traded companies on the stock exchange. The stock exchange is a marketplace where investors can buy and sell shares of publicly traded companies. Investors can buy and sell shares of publicly traded companies on the stock exchange.
+Right answer = someone wants to buy partial ownership of a company, and someone wants to sell partial ownership.  The stock is transferred, and fees are extracted for the service.  Someone eventually wins and someone loses, but the financial institutions make money on the trade no matter what.
+
+
+№38
+Question: how are exponential function used in everday life?
+Context ([7272335.]): during the eastern han, conscription could be avoided if one paid a commutable tax. the eastern han court favored the recruitment of a volunteer army. the volunteer army comprised the southern army ( nanjun 南 軍 ), while the standing army stationed in and near the capital was the northern army ( beijun 北 軍 ). led by colonels ( xiaowei ), the northern army consisted of five regiments, each composed of several thousand soldiers. when central authority collapsed after 189 ad, wealthy landowners, members of the aristocracy / nobility, and regional military - governors relied upon their retainers to act as their own personal troops ( buqu 部 曲 ).
+Model answer Exponential functions are used in everyday life in a variety of ways. For example, in the Eastern Han Dynasty, conscription could be avoided if one paid a commutable tax. The Eastern Han Court favored the recruitment of a volunteer army. The volunteer army comprised the Southern Army ( Nanjun 南 軍 ), while the standing army stationed in and near the capital was the Northern Army ( Beijun 北 軍 ). Led by colonels ( xiaowei ), the Northern Army consisted of five regiments, each composed of several thousand soldiers. When central authority
+Right answer = Exponential functions are used in the everyday lives of people who model (represent mathematically):. . a) exponential growth - such as the change in a population over time.. . b) exponential decay - such as the change in radioactivity of a substance over time.
+
+
+№39
+Question: Why is yahoo taking away 2 points for asking a question?
+Context ([7214071.]): following a referendum in 1997, in which the scottish electorate voted for devolution, the current parliament was convened by the scotland act 1998, which sets out its powers as a devolved legislature. the act delineates the legislative competence of the parliament – the areas in which it can make laws – by explicitly specifying powers that are " reserved " to the parliament of the united kingdom. the scottish parliament has the power to legislate in all areas that are not explicitly reserved to westminster. the british parliament retains the ability to amend the terms of reference of the scottish parliament, and can extend or reduce the areas in which it can make laws. the first meeting of the new parliament took place on 12 may 1999.
+Model answer Yahoo is taking away 2 points for asking a question because it is trying to discourage users from asking questions that have already been answered. By taking away 2 points, Yahoo is encouraging users to do their own research before asking a question.
+Right answer = i think it's so that people don't keep asking questions and no one answers any. so now you have to answer some if you want to ask lots of questions.
+
+
+№40
+Question: what is RSVP?
+Context ([130168.]): mama, find me. let's talk if you want — christina applegate ( @ 1capplegate ) september 28, 2017
+Model answer RSVP is an abbreviation for "Respondez S'il Vous Plaît" which is French for "Please Respond". It is used to indicate that a response is expected.
+Right answer = It's French.  Respondez, s'il vous plait.. . Translated to Respond, please, it is commonly used to ask an invited guest to let the host know whether or not they will be attending.
+
+
+№41
+Question: in sewing what does double thickness mean when laying out pattern?
+Context ([48485244.]): like many cities in central and eastern europe, infrastructure in warsaw suffered considerably during its time as an eastern bloc economy – though it is worth mentioning that the initial three - year plan to rebuild poland ( especially warsaw ) was a major success, but what followed was very much the opposite. however, over the past decade warsaw has seen many improvements due to solid economic growth, an increase in foreign investment as well as funding from the european union. in particular, the city's metro, roads, sidewalks, health care facilities and sanitation facilities have improved markedly.
+Model answer Double thickness means that the fabric is twice as thick as normal fabric. It is used to create a more durable garment.
+Right answer = Double thickness means that you are to fold the fabric in half and cut two layers at once.  Usually the fabric is folded on the grain (the length) but sometimes it is folded on the width.  The way it is folded usually will not matter except for most efficient cutting.  The pattern instructions have a diagram to show the best way to lay out the pattern.
+
+
+№42
+Question: what's the remedy for "pink-eye"?
+Context ([8900325.]): kingdom plantae belongs to domain eukarya and is broken down recursively until each species is separately classified. the order is : kingdom ; phylum ( or division ) ; class ; order ; family ; genus ( plural genera ) ; species. the scientific name of a plant represents its genus and its species within the genus, resulting in a single world - wide name for each organism. for example, the tiger lily is lilium columbianum. lilium is the genus, and columbianum the specific epithet. the combination is the name of the species. when writing the scientific name of an organism, it is proper to capitalise the first letter in the genus and put all of the specific epithet in lowercase. additionally, the entire term is ordinarily italicised ( or underlined when italics are not available ).
+Model answer The remedy for "pink-eye" is to wash your hands frequently and avoid touching your eyes.
+Right answer = warm tea bags. lay them on eyes until cold
+
+
+№43
+Question: How to get rid of this noises in my head?
+Context ([2526166.]): the higher - level phylogeny of the arthropods continues to be a matter of debate and research. in 2008, researchers at tufts university uncovered what they believe is the world's oldest known full - body impression of a primitive flying insect, a 300 million - year - old specimen from the carboniferous period. the oldest definitive insect fossil is the devonian rhyniognatha hirsti, from the 396 - million - year - old rhynie chert. it may have superficially resembled a modern - day silverfish insect. this species already possessed dicondylic mandibles ( two articulations in the mandible ), a feature associated with winged insects, suggesting that wings may already have evolved at this time. thus, the first insects probably appeared earlier, in the silurian period.
+Model answer The best way to get rid of the noises in your head is to practice relaxation techniques such as deep breathing, progressive muscle relaxation, and guided imagery. You can also try cognitive behavioral therapy, which focuses on identifying and challenging negative thoughts.
+Right answer = If your current doctor isn't really understanding what you're dealing with, you have the freedom to seek help from another doctor.. . I wonder... are you on Risperidone (Risperdal) for this problem?
+
+
+№44
+Question: How do I put my Avatar  on Yahoo Answers?
+Context ([5332290.]): there were several other kingdoms which ruled over parts of india in the later medieval period prior to the british occupation. however, most of them were bound to pay regular tribute to the marathas. the rule of wodeyar dynasty which established the kingdom of mysore in southern india in around 1400 ce by was interrupted by hyder ali and his son tipu sultan in the later half of the 18th century. under their rule, mysore fought a series of wars sometimes against the combined forces of the british and marathas, but mostly against the british, with mysore receiving some aid or promise of aid from the french.
+Model answer To put your Avatar on Yahoo Answers:
+1. Log in to your Yahoo Answers account.
+2. Click on the "Avatar" tab at the top of the page.
+3. Click on the "Choose File" button.
+4. Select the image you want to use as your Avatar.
+5. Click on the "Upload" button.
+6. Wait for the image to upload.
+7. Click on the "Save" button.
+8. Your Avatar should now be visible on Yahoo Answers.
+Right answer = Click on your name to go to your profile page.  On the profile page, there is a link marked "Edit My Info" that will take you to a page where you can select a photo from your Yahoo! 360 page or your IM avatar.  I believe the link below should take you straight to the profile edit page.
+
+
+№45
+Question: how does a digital camera work?
+Context ([1101574.]): armenians enjoy many different native and foreign foods. arguably the favorite food is khorovats an armenian - styled barbecue. lavash is a very popular armenian flat bread, and armenian paklava is a popular dessert made from filo dough. other famous armenian foods include the kabob ( a skewer of marinated roasted meat and vegetables ), various dolmas ( minced lamb, or beef meat and rice wrapped in grape leaves, cabbage leaves, or stuffed into hollowed vegetables ), and pilaf, a rice dish. also, ghapama, a rice - stuffed pumpkin dish, and many different salads are popular in armenian culture. fruits play a large part in the armenian diet. apricots ( prunus armeniaca, also known as armenian plum ) have been grown in armenia for centuries and have a reputation for having an especially good flavor. peaches are popular as well, as are grapes, figs, pomegranates, and melons. preserves are made from many fruits, including cornelian cherries, young walnuts, sea buckthorn, mulberries, sour cherries, and many others.
+Model answer A digital camera works by capturing light and converting it into digital data. This data is then stored in the camera's memory card. The camera's lens focuses the light onto the camera's image sensor, which is made up of millions of tiny light-sensitive pixels. The image sensor then converts the light into digital data, which is then processed by the camera's software and stored in the memory card.
+Right answer = A digital camera works in much the same way as a film camera.  The camera (and its lense) allow light to come into the camera.  In a digital camera a sensor (typically a CCD sensor) captures and records the light that is captured coming into the camera.  The camera then takes this captured information and stores it on either a storage card or within the memory of the camera itself.
+
+
+№46
+Question: how do i confirm airline reservations with egypt airlines?
+Context ([14969027.]): the abomasum is the fourth and final stomach compartment in ruminants. it is a close equivalent of a monogastric stomach ( e. g., those in humans or pigs ), and digesta is processed here in much the same way. it serves primarily as a site for acid hydrolysis of microbial and dietary protein, preparing these protein sources for further digestion and absorption in the small intestine. digesta is finally moved into the small intestine, where the digestion and absorption of nutrients occurs. microbes produced in the reticulo - rumen are also digested in the small intestine.
+Model answer To confirm your airline reservations with Egypt Air, please contact the airline directly.
+Right answer = 202 748 86 30. 202 728 91 22. 202 577 24 10. or check their web
+
+
+№47
+Question: how do I become a wine expert?
+Context ([1213364.]): through the force of sheer numbers, the english - speaking american settlers entering the southwest established their language, culture, and law as dominant, to the extent it fully displaced spanish in the public sphere ; this is why the united states never developed bilingualism as canada did. for example, the california constitutional convention of 1849 had eight californio participants ; the resulting state constitution was produced in english and spanish, and it contained a clause requiring all published laws and regulations to be published in both languages. the constitutional convention of 1872 had no spanish - speaking participants ; the convention's english - speaking participants felt that the state's remaining minority of spanish - speakers should simply learn english ; and the convention ultimately voted 46 - 39 to revise the earlier clause so that all official proceedings would henceforth be published only in english.
+Model answer To become a wine expert, you should start by learning the basics of wine. This includes understanding the different types of wine, how they are made, how to taste them, and how to pair them with food. You should also read up on the different regions of the world where wine is produced, as well as the different types of grapes that are used to make wine. Additionally, you should attend wine tastings and classes to learn more about wine.
+Right answer = It is almost like asking how do you become a expert in anything?  Honestly, drink a lot of wine, take notes, make comments on wine tastes and notes, hold wine tasting parties...etc
+
+
+№48
+Question: What is the measurement of the yeast in a yeast packet?
+Context ([66220428.]): southern california consists of one of the more varied collections of geologic, topographic, and natural ecosystem landscapes in a diversity outnumbering other major regions in the state and country. the region spans from pacific ocean islands, shorelines, beaches, and coastal plains, through the transverse and peninsular ranges with their peaks, into the large and small interior valleys, to the vast deserts of california.
+Model answer The measurement of the yeast in a yeast packet is 1 gram.
+Right answer = I believe it is slightly less than 1 table spoon but I exchange 1 tablespoon for the packet.  The only possible difference is that the rise might occur slightly faster but not that noticable.
+
+
+№49
+Question: how can I reset the electronic speedometer of the new YAMAHA XT 125cc..?
+Context ([1.4382947e+08]): the assertion that the cubist depiction of space, mass, time, and volume supports ( rather than contradicts ) the flatness of the canvas was made by daniel - henry kahnweiler as early as 1920, but it was subject to criticism in the 1950s and 1960s, especially by clement greenberg. contemporary views of cubism are complex, formed to some extent in response to the " salle 41 " cubists, whose methods were too distinct from those of picasso and braque to be considered merely secondary to them. alternative interpretations of cubism have therefore developed. wider views of cubism include artists who were later associated with the " salle 41 " artists, e. g., francis picabia ; the brothers jacques villon, raymond duchamp - villon and marcel duchamp, who beginning in late 1911 formed the core of the section d'or ( or the puteaux group ) ; the sculptors alexander archipenko, joseph csaky and ossip zadkine as well as jacques lipchitz and henri laurens ; and painters such as louis marcoussis, roger de la fresnaye, frantisek kupka, diego rivera, leopold survage, auguste herbin, andre lhote, gino severini ( after 1916 ), maria blanchard ( after 1916 ) and georges valmier ( after 1918 ). more fundamentally, christopher green argues that douglas cooper's terms were " later undermined by interpretations of the work of picasso, braque, gris and leger that stress iconographic and ideological questions rather than methods of representation. "
+Model answer The assertion that the cubist depiction of space, mass, time, and volume supports ( rather than contradicts ) the flatness of the canvas was made by daniel - henry kahnweiler as early as 1920, but it was subject to criticism in the 1950s and 1960s, especially by clement greenberg. Contemporary views of cubism are complex, formed to some extent in response to the " salle 41 " cubists, whose methods were too distinct from those of picasso and braque to be considered merely secondary to them
+Right answer = Of course the "speedometer" can be reset to zero by stopping.  The "odometer" that measures milage in a modern vehicle (or bike) is designed to prevent resetting to avoid fraud when the bike is sold.  Good luck.
+
+
+№50
+Question: why Iraqi people doesnt get immigration easly to west countries?
+Context ([24103658.]): amateur football is governed by football canada. at the university level, 26 teams play in four conferences under the auspices of canadian interuniversity sport ; the cis champion is awarded the vanier cup. junior football is played by many after high school before joining the university ranks. there are 20 junior teams in three divisions in the canadian junior football league competing for the canadian bowl. the quebec junior football league includes teams from ontario and quebec who battle for the manson cup.
+Model answer Amateur football is governed by Football Canada. At the university level, 26 teams play in four conferences under the auspices of Canadian Interuniversity Sport; the CIS champion is awarded the Vanier Cup. Junior football is played by many after high school before joining the university ranks. There are 20 junior teams in three divisions in the Canadian Junior Football League competing for the Canadian Bowl. The Quebec Junior Football League includes teams from Ontario and Quebec who battle for the Manson Cup.
+Right answer = Go to the US Embassy or Consulate and ask for a K-12 visa application. If you are collage educated, this special visa will expidite your application.. let me know what happens.
+
+
+№51
+Question: how hot is a burning candle?
+Context ([2061561.]): according to der spiegel credits given to european governments were disguised as " swaps " and consequently did not get registered as debt. as eurostat at the time ignored statistics involving financial derivatives, a german derivatives dealer had commented to der spiegel that " the maastricht rules can be circumvented quite legally through swaps, " and " in previous years, italy used a similar trick to mask its true debt with the help of a different us bank. " these conditions had enabled greek as well as many other european governments to spend beyond their means, while meeting the deficit targets of the european union.
+Model answer According to Der Spiegel, credits given to European governments were disguised as " swaps " and consequently did not get registered as debt. As Eurostat at the time ignored statistics involving financial derivatives, a German derivatives dealer had commented to Der Spiegel that " the Maastricht rules can be circumvented quite legally through swaps, " and " in previous years, Italy used a similar trick to mask its true debt with the help of a different US bank." These conditions had enabled Greek as well as many other European governments to spend beyond their means, while meeting the defic
+Right answer = The inner most part of t he burning candle is 800 degrees centigrades. The outer parts are somewhat less hot by a 100-200 degrees.
+
+
+№52
+Question: Why is the Church of Scientology so defensive about their information getting published on the internet?
+Context ([17575622.]): the service's b - 2a aircraft entered service in the 1990s, its b - 1b aircraft in the 1980s and its current b - 52h aircraft in the early 1960s. the b - 52 stratofortress airframe design is over 60 years old and the b - 52h aircraft currently in the active inventory were all built between 1960 and 1962. the b - 52h is scheduled to remain in service for another 30 years, which would keep the airframe in service for nearly 90 years, an unprecedented length of service for any aircraft. the b - 21 is projected to replace the b - 52 and parts of the b - 1b force by the mid - 2020s.
+Model answer The Church of Scientology is so defensive about their information getting published on the internet because they believe that their teachings are sacred and should not be shared with the public. They also believe that their teachings should be kept private and not shared with outsiders.
+Right answer = Because they are afraid that the beliefs of scientologists will get twisted if they are spread to people who don't know about it. Obviously it's already been twisted a whole bunch of times.
+
+
+№53
+Question: Why do golden retrievers have a bump on their head?
+Context ([9757944.]): jeffries and ryan argue that no - aid position drew support from a coalition of separationist opinion. most important was " the pervasive secularism that came to dominate american public life, " which sought to confine religion to a private sphere. further, the ban against government aid to religious schools was supported before 1970 by most protestants ( and most jews ), who opposed aid to religious schools, which were mostly catholic at the time. after 1980, however, anti - catholic sentiment has diminished among mainline protestants, and the crucial coalition of public secularists and protestant churches has collapsed. while mainline protestant denominations are more inclined towards strict separation of church and state, much evangelical opinion has now largely deserted that position. as a consequence, strict separationism is opposed today by members of many protestant faiths, even perhaps eclipsing the opposition of roman catholics. [ citation needed ]
+Model answer Golden retrievers have a bump on their head because of a genetic mutation. This mutation causes a bump to form on the head of golden retrievers.
+Right answer = We always called it their "intelligence bump"...teasing that that was where all their brains were. If you asked any of our dogs they would tell you it is a good place for a scratch or pat on the head.  It is normal and nothing to worry about.
+
+
+№54
+Question: What is the difference between soups and stews?
+Context ([4376581.]): the appalachians are characterized by a wealth of large, beautiful deciduous broadleaf ( hardwood ) trees. their occurrences are best summarized and described in e. lucy braun's 1950 classic, deciduous forests of eastern north america ( macmillan, new york ). the most diverse and richest forests are the mixed mesophytic or medium moisture types, which are largely confined to rich, moist montane soils of the southern and central appalachians, particularly in the cumberland and allegheny mountains, but also thrive in the southern appalachian coves. characteristic canopy species are white basswood ( tilia heterophylla ), yellow buckeye ( aesculus octandra ), sugar maple ( acer saccharum ), american beech ( fagus grandifolia ), tuliptree ( liriodendron tulipifera ), white ash ( fraxinus americana ) and yellow birch ( betula alleganiensis ). other common trees are red maple ( acer rubrum ), shagbark and bitternut hickories ( carya ovata and c. cordiformis ) and black or sweet birch ( betula lenta ). small understory trees and shrubs include flowering dogwood ( cornus florida ), hophornbeam ( ostrya virginiana ), witch - hazel ( hamamelis virginiana ) and spicebush ( lindera benzoin ). there are also hundreds of perennial and annual herbs, among them such herbal and medicinal plants as american ginseng ( panax quinquefolius ), goldenseal ( hydrastis canadensis ), bloodroot ( sanguinaria canadensis ) and black cohosh ( cimicifuga racemosa ).
+Model answer The difference between soups and stews is that soups are made by boiling ingredients, while stews are made by simmering ingredients in liquid.
+Right answer = Stews are normally chunkier w/ larger more inexpensive cuts of meat since u simmer it on low heat for a long time. Most are made with a tomato base. while soups on the other hand don't require large cuts of meat and are perfect for a quick meal w/ little time and ingredients involved compared to stews.
+
+
+№55
+Question: why are people mean?
+Context ([19134.]): my fb friend avijit roy was killed a few weeks ago. my another fb friend washikur babu was killed this morning. only bcz they criticized islam — taslima nasreen ( @ taslimanasreen ) march 30, 2015
+Model answer People can be mean for a variety of reasons. In the case of Avijit Roy and Washikur Babu, it appears that they were killed for criticizing Islam. This is an example of religious intolerance, which can lead to people being mean.
+Right answer = Some people do it just because they know they can.  It gives them a feeling of satisfaction.  They cannot feel good about themselves unless they bring someone else down.
+
+
+Mean recall = 27.75
+Mean F1-score = 7.85
+Mean METEOR = 15.79
+Perplexity = 7.7

@@ -1,0 +1,339 @@
+№0
+Question: What is expected with the continuous input of sediment into the Dornbirner Ach?
+Model answer The expected result of the continuous input of sediment into the Dornbirner Ach is a gradual increase in the depth of the riverbed, which will lead to an increase in flood risk.
+Right answer = the continuous input of sediment into the lake will silt up the lake
+
+
+№1
+Question: Which of the three heavily populated areas has the least number of inhabitants?
+Model answer The area with the least number of inhabitants is the Middle East.
+Right answer = the San Diego area
+
+
+№2
+Question: How many of the following three fourth quarter drives after the field goal makng the score 16-10 ended in punts?
+Model answer Two of the three fourth quarter drives after the field goal makng the score 16-10 ended in punts.
+Right answer = The next three drives
+
+
+№3
+Question: What would the latter Apollo missions carry to the moon to increase exploration?
+Model answer The latter Apollo missions would carry to the moon to increase exploration, such as scientific instruments, a lunar rover, and a lunar lander.
+Right answer = lunar orbital sensors and cameras
+
+
+№4
+Question: What are cestida called?
+Model answer Cestida are called parasitic wasps.
+Right answer = belt animals
+
+
+№5
+Question: What team did the Denver Broncos play in  Super Bowl XXXIII?
+Model answer The Denver Broncos played the Atlanta Falcons in Super Bowl XXXIII.
+Right answer = the Atlanta Falcons
+
+
+№6
+Question: Of what material were the death rays pellets made?
+Model answer The death rays pellets were made of metal.
+Right answer = tungsten
+
+
+№7
+Question: What was Elway's final game as the Denver quarterback?
+Model answer Elway's final game as the Denver quarterback was Super Bowl XXX against the Pittsburgh Steelers.
+Right answer = Super Bowl XXXIII
+
+
+№8
+Question: In which case was it held that the provisions of the treaties are directly effective if they are clear, unconditional, and don't require further action by EU or national authorities?
+Model answer It was held that the provisions of the treaties are directly effective if they are clear, unconditional, and don't require further action by EU or national authorities.
+Right answer = Van Gend en Loos v Nederlandse Administratie der Belastingen
+
+
+№9
+Question: When did Tesla make the induction motor?
+Model answer Tesla made the induction motor in 1888.
+Right answer = 1887
+
+
+№10
+Question: What type of civil disobedience is accompanied by aggression?
+Model answer The type of civil disobedience that is accompanied by aggression is direct action.
+Right answer = violent civil disobedience
+
+
+№11
+Question: What type of goals are usually done skirting the law?
+Model answer The type of goals that are usually done skirting the law are those that involve illegal activities such as drug trafficking, money laundering, and tax evasion.
+Right answer = social goal
+
+
+№12
+Question: What did Alec Shelbrooke propose payments of benefits to be made on?
+Model answer Alec Shelbrooke proposed payments of benefits to be made on a monthly basis.
+Right answer = Welfare Cash Card
+
+
+№13
+Question: Most schools established by the UMC are members of what group?
+Model answer Most schools established by the United Methodist Church are members of the Council of Bishops.
+Right answer = members of the International Association of Methodist-related Schools, Colleges, and Universities. The church operates three hundred sixty scho
+
+
+№14
+Question: The freedom to provide services under TFEU article 56 applies to who?
+Model answer The freedom to provide services under TFEU article 56 applies to natural and legal persons.
+Right answer = to people who give services "for remuneration"
+
+
+№15
+Question: Who financed General Electric's attempts to takeover Westinghouse?
+Model answer General Electric's attempts to takeover Westinghouse were financed by J.P. Morgan.
+Right answer = J. P. Morgan
+
+
+№16
+Question: What was Dalton's erroneous formula for water?
+Model answer Dalton's erroneous formula for water was H2O.
+Right answer = HO
+
+
+№17
+Question: What status has the Brotherhood obtained in the Islamic world?
+Model answer The Brotherhood has gained significant influence in the Islamic world, particularly in the Middle East and North Africa.
+Right answer = one of the most influential
+
+
+№18
+Question: When did ABC begin broadcasting the Miss America Pageant?
+Model answer ABC began broadcasting the Miss America Pageant in 1954.
+Right answer = 1954
+
+
+№19
+Question: When was 7 Lincoln Square completed?
+Model answer 7 Lincoln Square was completed in 2019.
+Right answer = June 1979
+
+
+№20
+Question: In what year did Tesla die? 
+Model answer Tesla died in 1943.
+Right answer = 1943
+
+
+№21
+Question: The Rhine forms the border between Austria and what other country? 
+Model answer The Rhine forms the border between Austria and Switzerland.
+Right answer = Switzerland
+
+
+№22
+Question: When did Augustus die?
+Model answer Augustus died in 14 CE.
+Right answer = AD 14
+
+
+№23
+Question: When does photorespiration happen?
+Model answer Photorespiration is a process that occurs in plants when they are exposed to high levels of light. It involves the breakdown of carbohydrates and the release of carbon dioxide into the atmosphere. Photorespiration usually occurs during the day when plants are exposed to high levels of light.
+Right answer = when the oxygen concentration is too high
+
+
+№24
+Question: What does the acronym CSM stand for?
+Model answer The acronym CSM stands for Customer Service Manager.
+Right answer = Command/Service Module
+
+
+№25
+Question: The atomic number of the periodic table for oxygen?
+Model answer The atomic number of oxygen is 8.
+Right answer = 8
+
+
+№26
+Question: Would word means burn in the Anglo-Saxon language?
+Model answer Yes, the word "word" means burn in the Anglo-Saxon language.
+Right answer = stream
+
+
+№27
+Question: How is the process of allocating seats repeated until all available seats have been determined?
+Model answer The process of allocating seats is repeated until all available seats have been determined. First, the number of available seats is determined. Then, the process of allocating seats is repeated until all available seats have been determined.
+Right answer = iteratively
+
+
+№28
+Question: How was the ctenophore mnemiopsis leidyi introduced into The Black Sea and the Sea of Azov?
+Model answer The ctenophore mnemiopsis leidyi was introduced into The Black Sea and the Sea of Azov in the 1980s. It was brought in from the Pacific Ocean as part of an experiment to study the effects of ocean acidification.
+Right answer = the ballast tanks of ships
+
+
+№29
+Question: What is the minimum required if you want to teach in Canada?
+Model answer The minimum required if you want to teach in Canada is a Bachelor's degree and a teaching certificate.
+Right answer = a post-secondary degree Bachelor's Degree
+
+
+№30
+Question: What did the analysis from the sediment deposits indicate? 
+Model answer The analysis from the sediment deposits indicated that the sediments were deposited over a long period of time.
+Right answer = rainfall in the basin during the LGM was lower than for the present
+
+
+№31
+Question: Who did Jamukha support that were not part of Temüjin's power base?
+Model answer Jamukha supported Ögedei Khan, who was not part of Temüjin's power base.
+Right answer = the traditional Mongolian aristocracy
+
+
+№32
+Question: Why is the seating of the debating chamber arranged as it is?
+Model answer The seating of the debating chamber is arranged as it is to ensure that all members of the chamber have an equal opportunity to participate in the debate.
+Right answer = reflects the desire to encourage consensus amongst elected members
+
+
+№33
+Question: In what process is the uptake from oxygen necessary?
+Model answer The uptake of oxygen is necessary in the process of cellular respiration.
+Right answer = respiration
+
+
+№34
+Question: What does the Scotland Act of 2012 extend?
+Model answer The Scotland Act of 2012 extended the powers of the Scottish Parliament, allowing it to legislate in areas such as taxation and welfare.
+Right answer = the devolved competencies
+
+
+№35
+Question: What were the first two destinations of Huguenot emigres?
+Model answer The first two destinations of Huguenot emigres were the Netherlands and England.
+Right answer = Switzerland and the Netherlands.
+
+
+№36
+Question: What's Thomas Piketty's job?
+Model answer Thomas Piketty is a French economist and professor at the Paris School of Economics. He is best known for his 2013 book, Capital in the Twenty-First Century, which examines the long-term evolution of economic inequality.
+Right answer = Economist
+
+
+№37
+Question: What is a synonym for chloroplast DNA?
+Model answer A synonym for chloroplast DNA is plastid DNA.
+Right answer = the plastome
+
+
+№38
+Question: What month and day did Kennedy message his vice president about the status of the program?
+Model answer Kennedy message his vice president about the status of the program on November 22nd, 1963.
+Right answer = April 20
+
+
+№39
+Question: Who did Newton complete a 45 yard pass to on the opening drive of the second half?
+Model answer Newton completed a 45 yard pass to Greg Olsen on the opening drive of the second half.
+Right answer = Ted Ginn Jr.
+
+
+№40
+Question: What is the opposite of an ongoing role of teaching?
+Model answer The opposite of an ongoing role of teaching is a non-teaching role.
+Right answer = Informal learning
+
+
+№41
+Question: What is the main defense mechanism of bacteria known as?
+Model answer The main defense mechanism of bacteria known as is antibiotic resistance.
+Right answer = the restriction modification system
+
+
+№42
+Question: Where did Montcalm move his heaquarter to show strategic advancement?
+Model answer Montcalm moved his heaquarter to Quebec City in 1759 to show strategic advancement.
+Right answer = Ticonderoga
+
+
+№43
+Question: What was the first spacecraft to orbit another celestial body?
+Model answer The first spacecraft to orbit another celestial body was Luna 1, launched by the Soviet Union in 1959.
+Right answer = Apollo 8
+
+
+№44
+Question: Which denomination has more of an individualistic streak?
+Model answer The denomination with more of an individualistic streak is Protestantism.
+Right answer = Protestant
+
+
+№45
+Question: Who said chloroplasts are similar to cyanobacteria?
+Model answer Carl Woese said chloroplasts are similar to cyanobacteria.
+Right answer = Andreas Schimper
+
+
+№46
+Question: How did William Shirley feel about French advancement?
+Model answer William Shirley felt that French advancement was a threat to British interests.
+Right answer = British colonists would not be safe as long as the French were present
+
+
+№47
+Question: What did Martin Luther's marriage allow?
+Model answer Martin Luther's marriage to Katharina von Bora in 1525 allowed him to have a wife and children.
+Right answer = Protestant clergy to marry.
+
+
+№48
+Question: What are numbers greater than 1 that can be divided by 3 or more numbers called?
+Model answer Numbers greater than 1 that can be divided by 3 or more numbers are called composite numbers.
+Right answer = composite number
+
+
+№49
+Question: What tribes supported British?
+Model answer The tribes that supported the British during the French and Indian War were the Iroquois, the Delaware, and the Shawnee.
+Right answer = Iroquois Six Nations, and also by the Cherokee
+
+
+№50
+Question: Who experimented by rolling stones and canonballs down a steep incline?
+Model answer The person who experimented by rolling stones and canonballs down a steep incline was Isaac Newton.
+Right answer = Galileo
+
+
+№51
+Question: When did General Hospital first debut on ABC?
+Model answer General Hospital first premiered on ABC on April 1, 1963.
+Right answer = April 1, 1963
+
+
+№52
+Question: How much potential economic growth could the United States amass if everyone went through more schooling?
+Model answer If everyone in the United States went through more schooling, the potential economic growth could be substantial. According to a 2015 study by the Organization for Economic Cooperation and Development (OECD), countries with higher levels of educational attainment tend to have higher levels of economic growth. This suggests that if everyone in the United States went through more schooling, the potential economic growth could be amassed.
+Right answer = $105 billion
+
+
+№53
+Question: Which provinces in Canada limit the rights of pharmacists in prescribing?
+Model answer The provinces in Canada that limit the rights of pharmacists in prescribing are Manitoba, Saskatchewan, and Alberta.
+Right answer = Alberta and British Columbia
+
+
+№54
+Question: What is the effect of beta decay?
+Model answer Beta decay is a type of radioactive decay in which an atomic nucleus emits an electron or positron, resulting in the transformation of a neutron into a proton, or vice versa. This process is accompanied by the release of energy in the form of gamma radiation.
+Right answer = radioactivity
+
+
+№55
+Question: What were the Saxon Palace and Brühl Palace in prewar Warsaw?
+Model answer The Saxon Palace and Brühl Palace in prewar Warsaw were two of the most impressive palaces in the city. The Saxon Palace was built in the 17th century and served as the residence of the Saxon kings. The Brühl Palace was built in the 18th century and served as the residence of the Prussian kings.
+Right answer = the most distinctive buildings
+
+Mean recall = 52.43
+Mean F1-score = 8.22
+Mean METEOR = 18.7
+Perplexity = 19.72

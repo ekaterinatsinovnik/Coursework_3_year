@@ -1,0 +1,359 @@
+№0
+Question: Why does looking up at the sun make you sneeze?
+Model answer Looking up at the sun makes you sneeze because it causes your eyes to dilate, which can trigger an allergic reaction.
+Right answer = It's called the "Photic sneeze reflex" and it's not present in everyone.  I personally don't sneeze *just* because of sunlight, but I do know that if I feel a sneeze coming on and I want to trigger it, looking at bright lights helps trigger the sneeze.. . Check out the link below for Cecil Adams' answer.
+
+
+№1
+Question: How do you get window clings to regain their static?
+Model answer To get window clings to regain their static, you can use a hair dryer or a heat gun to warm up the window cling. Once the window cling is warm, you can gently rub it with your fingers to regain its static.
+Right answer = Put it back on the dispensing roll.  When you peel it off, the static charge will return.
+
+
+№2
+Question: Why is the sky blue instead of black like at night?
+Model answer The sky is blue because of the scattering of sunlight by molecules in the Earth's atmosphere. At night, the sky is black because there is no sunlight to scatter.
+Right answer = The angle of refraction of the sunlight as it comes through the atmosphere. At sunset the colors change because the angle gets steeper. Its like a prism.
+
+
+№3
+Question: What is the difference between ASP.NET 1.1 and ASP.NET 2.0?
+Model answer The main difference between ASP.NET 1.1 and ASP.NET 2.0 is that ASP.NET 2.0 is based on the .NET Framework 2.0, while ASP.NET 1.1 is based on the .NET Framework 1.1. ASP.NET 2.0 has a number of new features, such as the ability to host multiple websites on a single server, improved security, and support for XML Web Services.
+Right answer = There are bunch of new controls to reduce line of code. like login functionality , impersonation , master pages etc. . No major change in the architecture of asp.net
+
+
+№4
+Question: How do teach someone quadratics?
+Model answer The best way to teach someone quadratics is to start with the basics, such as how to solve quadratic equations and how to graph quadratic functions. Then, you can move on to more advanced topics, such as how to find the roots of a quadratic equation and how to use the quadratic formula.
+Right answer = dont worry- she'll just ask fren 4 his. I just copy pasted some stuff from BBC bitesize
+
+
+№5
+Question: How likely am I to get motion sickness on a plane?
+Model answer The likelihood of getting motion sickness on a plane depends on a variety of factors, such as the length of the flight, the type of aircraft, and the individual's susceptibility to motion sickness. Generally, the longer the flight, the greater the likelihood of motion sickness.
+Right answer = Some people get motion sickness while trveling in car especially in the back seats,  And some when the plane is taking off or while landing.  This is due to the internal ear problem which is  being affected by the atmospheric  pressure or problem itself in the internal ear.
+
+
+№6
+Question: What are cooties?
+Model answer Cooties are imaginary creatures that are believed to be passed from one person to another through physical contact. They are usually associated with children and are believed to cause discomfort and embarrassment.
+Right answer = its what girls have cuz they are gross lol. just a childish game kids play. probably not allowed anymore because of diversity and that the american school system sucks but i used to get cooties when i was a kid ha ha good times
+
+
+№7
+Question: what does the legal term stip cause mean?
+Model answer Stip cause is a legal term that refers to an agreement between the parties involved in a lawsuit. It means that the parties have agreed to the terms of the lawsuit before it has even begun.
+Right answer = It means a stipulated (that is, essential, required or agreed upon) cause of action.. . A "cause of action" is the reason for a lawsuit.. . See link:
+
+
+№8
+Question: how can I delete my attachments?
+Model answer You can delete your attachments by going to the "Attachments" page and clicking the "Delete" button next to the attachment you want to delete.
+Right answer = If you're talking about received attachments, I believe that when you delete the email, the attachment associated with it will be deleted as well.  This is how the email program we use at work (Eudora) functions.
+
+
+№9
+Question: what is graphical method?
+Model answer Graphical methods are a type of data visualization technique used to represent data in a graphical format. Graphical methods can be used to quickly identify patterns, trends, and correlations in data. They can also be used to communicate complex ideas in an easy-to-understand way.
+Right answer = I assume you are talking about vector analysis.  The graphical method would be drawing the vectors head to tail and to scale. and then drawing in the resultant and using your ruler and protractor to measure the displacement and angle.
+
+
+№10
+Question: how to disable retry message when refreshing web page?
+Model answer To disable the retry message when refreshing a web page, you can use the following steps:
+1. Open the web page you want to refresh.
+2. Click on the "Refresh" button.
+3. Click on the "Disable Retry Message" checkbox.
+4. Click on the "Disable Retry Message" button.
+5. The retry message will be disabled.
+Right answer = Sorry, it's impossible.  It's a security and safety feature.
+
+
+№11
+Question: why are we on answers at 4am?
+Model answer We are on answers at 4am because it is the most convenient time for people to look for answers to their questions.
+Right answer = Different Countries Have Different Times.. :). Its 6pm Now In Singapore.. :)
+
+
+№12
+Question: How do I clean between the keys on my cell phone?
+Model answer To clean between the keys on your cell phone, use a cotton swab dipped in rubbing alcohol. Gently swipe the cotton swab between the keys to remove any dirt or debris.
+Right answer = I'd use a moistened Q-tip, or one of those keyboard blower things in a can with the thing long, tip. That always works...
+
+
+№13
+Question: Why do we send Christmas cards?
+Model answer We send Christmas cards as a way to express our best wishes for the holiday season. It is also a way to stay in touch with friends and family.
+Right answer = A sense of social obligation and reciprocity. I.e., other people send you cards, you feel you must send them cards.. . Sometimes people are just nice, and like to send cards.
+
+
+№14
+Question: why is it legal to advertise beer and noy cigarettes?
+Model answer It is legal to advertise beer but not cigarettes because beer is a legal product while cigarettes are not.
+Right answer = because beer is acceptable to society and cigarettes are not. both are equally bad for the body. and minus the smell smokers are a whole lot better to hang out with, well as aposed to drunks. try video taping a drunk person and show it to them later not a pretty show.
+
+
+№15
+Question: how do i get rid of the hiccups?
+Model answer There are several ways to get rid of the hiccups. One way is to take a deep breath and hold it for a few seconds. Another way is to drink a glass of water quickly. Another way is to hold your breath for a few seconds and then take a deep breath. Another way is to drink a glass of cold water quickly. Another way is to hold your breath for a few seconds and then take a deep breath. Another way is to drink a glass of cold water quickly. Another way is to drink a glass of cold water quickly.
+Right answer = Concentrate on breathing in and out slowly. Hiccups are caused by spasms in the diaphragm and by concentrating on breathing, you are actually thinking about moving your diaphragm and, for some reason, that usually tends to stop the hiccups after a couple of minutes.
+
+
+№16
+Question: Why do Saturns get that weird paint, shading, coloring and peeling on the side doors?
+Model answer Saturns get that weird paint, shading, coloring and peeling on the side doors because the paint is not properly cured. This can be caused by a variety of factors, such as improper application of the paint, improper curing of the paint, or exposure to extreme temperatures.
+Right answer = Saturn uses plastic dent-resistant door and side panels, has for years.  It's great if you plan on hitting your car with a golf club now and then (which is more likely since it's a Saturn), but other than that it just makes the paint oxidize more quickly.
+
+
+№17
+Question: is there a way to find out what something previously sold for on ebay?
+Model answer Yes, there is a way to find out what something previously sold for on eBay. You can search for the item on eBay and look at the completed listings to see what the item sold for. You can also search for the item on eBay and look at the completed listings to see what the item sold for. You can also search for the item on eBay and look at the completed listings to see what the item sold for. You can also search for the item on eBay and look at the completed listings to see what the item sold for.
+Right answer = Yup.  Go to eBay and search .. there's a box that says "Completed Auctions" .. check that, and the search results will be from auctions that are closed.
+
+
+№18
+Question: What can I do to prevent getting eye infections?
+Model answer To prevent getting eye infections, it is important to wash your hands regularly and avoid touching your eyes. It is also important to wear protective eyewear when working with hazardous materials, and to get regular eye exams.
+Right answer = It can be your contact lenses. I've been through the same problems and the eye doctor said it was my contacts why don't you change brands that worked for me
+
+
+№19
+Question: What is the difference between a bibliography and a reference list?
+Model answer The difference between a bibliography and a reference list is that a bibliography is a list of sources used in the research process, while a reference list is a list of sources used in the writing process. A bibliography includes all sources used in the research process, while a reference list includes only those sources used in the writing process.
+Right answer = In a reference list you list, by author's last name, all sources cited in your "work" (dissertation, thesis, article, etc.).  In a bibliography, you list all sources read, whether you cited them or not.
+
+
+№20
+Question: what is a pandemic opposed to an epidemic?
+Model answer A pandemic is a global outbreak of a disease, while an epidemic is a local outbreak of a disease.
+Right answer = A pandemic is an epidemic occurring over a very wide area, crossing international boundaries and usually affecting a large number of people. A global epidemic.. . An epidemic is a widespread outbreak of an infectious disease; many people are infected at the same time
+
+
+№21
+Question: how 2 find out if a slogen is copyrited?
+Model answer The best way to find out if a slogan is copyrighted is to conduct a search on the US Patent and Trademark Office (USPTO) website. You can search for the slogan and see if it has been registered as a trademark. If the slogan has not been registered, it may still be protected by copyright law.
+Right answer = Well you will need to do a copyright search for the words... but judging by your spelling here you should not have a problem with what you may have come with.... but check anyhow... some things you can find easily, others will need a lawyer. Best of luck to you...
+
+
+№22
+Question: How does image search work?
+Model answer Image search works by analyzing an image and comparing it to other images in a database. The database is then searched for images that are similar to the one being searched. The results of the search are then displayed to the user.
+Right answer = It searches the title, name, and captions of images, and the texts assigned to them. Some times it uses the title of the page the image was used in too.
+
+
+№23
+Question: Why do popes choose a new name for themselves?
+Model answer Popes choose a new name for themselves as a symbol of their new role as leader of the Catholic Church. The new name is meant to signify the pope's commitment to the Church and its teachings.
+Right answer = "Since 533, the new Pope has also decided on the name by which he is to be called at this time. Pope John II was the first to adopt a new papal name; he felt that his original name, Mercurius, was inappropriate, as it was also the name of a Roman god. In most cases, even if such considerations are absent, Popes tend to choose new papal names; the last Pope to reign under his baptismal name was Pope Marcellus II (1555)."
+
+
+№24
+Question: WHY CAN'T I STOP EATING BOOGERS?
+Model answer Eating boogers is a form of oral fixation, which is a psychological term used to describe an obsessive-compulsive behavior. Oral fixation can be caused by a variety of factors, such as stress, anxiety, or trauma. Eating boogers can also be a form of self-soothing, as it can provide a sense of comfort and security.
+Right answer = Does it make you a cannibal if you eat your own boogers? Seriously though. Thats disgusting. At least you are not sculpting things with them.
+
+
+№25
+Question: how to stop vomit?
+Model answer The best way to stop vomiting is to stay hydrated. Drink plenty of fluids, such as water, juice, or sports drinks. Eat small meals and snacks throughout the day. Avoid foods that are high in fat, sugar, or caffeine. If you are feeling nauseous, try ginger or peppermint tea. If you are feeling dizzy or lightheaded, lie down and rest. If you are feeling weak or dizzy, seek medical attention immediately.
+Right answer = Well, if you are talking about vomiting because of a smell or other people vomiting.. . Take your mind away from it, if something smells real bad, try to think of something that smells like it.  This will help you think that it's not that bad.. . Otherwise, if you're sick, let it out; if you're drunk, let it out; and if you're poisoned, contact your local poison control center or hospital.
+
+
+№26
+Question: What are the responsibilities of my guardian angel?
+Model answer The responsibilities of your guardian angel are to watch over you and protect you from harm. They are also there to guide you and help you make the right decisions in life.
+Right answer = To keep you on the path that will eventually lead you to the cross--whether that road is rocky or smooth.. . In answer to OpenAndy's question below, read Matthew 18:10
+
+
+№27
+Question: How do energy drinks work?
+Model answer Energy drinks typically contain caffeine, taurine, B vitamins, and other stimulants. These ingredients work together to increase alertness and energy levels. Caffeine is the most common ingredient in energy drinks, and it works by stimulating the central nervous system. Taurine is an amino acid that helps to regulate the body's water levels. B vitamins help to increase energy levels. Other ingredients, such as guarana, ginseng, and ginkgo biloba, may also be present in energy
+Right answer = Energy drinks pump you with caffeine and most have some kind of citrus extract in it.. All that caffeine is the main ingredient that forces you awake. For me, I can swallow 2 caffeine tablets and gulp down a coupla' energy drinks and I'd still sleep like a log.
+
+
+№28
+Question: how come you dont have a religon categore?
+Model answer We do not have a religion category because we believe that religion is a personal matter and should not be discussed in a public forum.
+Right answer = first of all, i don't know why you posted this in the electronics category. Second, there is a religion category here. It's under society and culture!
+
+
+№29
+Question: How can we stop global- warming?
+Model answer We can stop global-warming by reducing our dependence on fossil fuels, increasing energy efficiency, and investing in renewable energy sources.
+Right answer = The easiest thing would be to switch all cars to hybrid.  Right now.  The technology is here.  Wind power now costs less than coal, but our government keeps giving money to the coal industry because of lobbyists.
+
+
+№30
+Question: what is the real meaning of meaning?
+Model answer The real meaning of "meaning" is the purpose or significance of something. For example, the meaning of life is to find happiness and fulfillment.
+Right answer = the real meaning of meaning is "meaning" :). . The dictionary says this. "Something that is conveyed or signified; sense or significance."
+
+
+№31
+Question: Why do some women purpously try to aggravate there boyfriend/husband just to see how much they can take?
+Model answer Some women purposely try to aggravate their boyfriend/husband just to see how much they can take. This is often done as a form of emotional abuse, where the woman is trying to gain power and control over her partner. It can also be done as a form of revenge, where the woman is trying to get back at her partner for some perceived wrong.
+Right answer = Shes playing you!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! in a good way though. She loves so so so much, you have to recognise it bro!
+
+
+№32
+Question: what's the scariest weather situation you've experienced?
+Model answer The scariest weather situation I've experienced was when I was driving in a severe thunderstorm. The wind was howling, the rain was coming down in sheets, and the lightning was so close I could feel the electricity in the air. It was a terrifying experience, and I'll never forget it.
+Right answer = Taking off in a puddle-jumper from Farmington, NM airport right when a very strong cold front hit the airport.  We had to fly into the front then make a U-turn after we took off.  In the air, the plane plane slid sideways for what felt like 100 ft., and the rest of the trip the plane kept dropping and rising like a roller-coaster.
+
+
+№33
+Question: How to get a US visa?
+Model answer To get a US visa, you will need to complete an application form and provide supporting documents. You will also need to pay a visa application fee and have an interview with a US consular officer.
+Right answer = You should contact the US embassy in your country to get information on how to apply for a Visa. There's many different ones, student visas, tourist visas, work visas, so you really should speak with someone at the embassy.
+
+
+№34
+Question: how do air brakes work?
+Model answer Air brakes work by using compressed air to apply pressure to the brake shoes. When the brake pedal is depressed, the compressed air is released, which causes the brake shoes to move and apply pressure to the brake drum, slowing or stopping the vehicle.
+Right answer = air pressure holds the brakes in the "off" position. when you apply the brakes, air is released from the system causing the shoes to close. if for some reason the system develops a leak, the brakes will engage and lock up. that's why you have to let the air pressure build up in a rig before releasing the parking brake, no air pressure means no brake release.
+
+
+№35
+Question: What are the negative impacts of the mission and effectiveness of the Mcdonalds corporation?
+Model answer The negative impacts of the mission and effectiveness of the Mcdonalds corporation include: 
+1. Increased rates of obesity and diabetes. 
+2. Increased rates of heart disease. 
+3. Increased rates of childhood obesity. 
+4. Increased rates of food insecurity. 
+5. Increased rates of food waste. 
+6. Increased rates of environmental degradation. 
+7. Increased rates of animal cruelty. 
+8. Increased rates of worker
+Right answer = Watch "Supersize Me".  It's great and explains a lot about this subject.
+
+
+№36
+Question: why does ph affect the rate of digestion in proteins?
+Model answer Ph affects the rate of digestion in proteins because it affects the pH of the stomach, which in turn affects the rate at which proteins are broken down into amino acids.
+Right answer = The enzymes in the stomach require a certain pH for the amino acids in them to work properly. So, when the pH is optimum, the amino acids are in their correct ionic state. This enables the enzymes to function properly in digestion.
+
+
+№37
+Question: How does stock exchange work?
+Model answer Stock exchanges work by allowing investors to buy and sell shares of publicly traded companies. Investors can buy and sell shares of publicly traded companies on stock exchanges, which are regulated by the Securities and Exchange Commission (SEC). Stock exchanges allow investors to buy and sell shares of publicly traded companies in a regulated environment.
+Right answer = someone wants to buy partial ownership of a company, and someone wants to sell partial ownership.  The stock is transferred, and fees are extracted for the service.  Someone eventually wins and someone loses, but the financial institutions make money on the trade no matter what.
+
+
+№38
+Question: how are exponential function used in everday life?
+Model answer Exponential functions are used in everyday life in a variety of ways. For example, they can be used to model the growth of bacteria in a petri dish over time, or to model the growth of a population over time. They can also be used to model the growth of a company's revenue over time, or to model the growth of a company's market share over time. Exponential functions can also be used to model the growth of a company's assets over time, or to model the growth of a company's debt over time.
+Right answer = Exponential functions are used in the everyday lives of people who model (represent mathematically):. . a) exponential growth - such as the change in a population over time.. . b) exponential decay - such as the change in radioactivity of a substance over time.
+
+
+№39
+Question: Why is yahoo taking away 2 points for asking a question?
+Model answer Yahoo is taking away 2 points for asking a question in order to discourage users from asking questions that are already answered in the FAQ section.
+Right answer = i think it's so that people don't keep asking questions and no one answers any. so now you have to answer some if you want to ask lots of questions.
+
+
+№40
+Question: what is RSVP?
+Model answer RSVP is an acronym for "Request for Comments". It is a process used by the Internet Engineering Task Force (IETF) to solicit feedback from the Internet community on proposed standards.
+Right answer = It's French.  Respondez, s'il vous plait.. . Translated to Respond, please, it is commonly used to ask an invited guest to let the host know whether or not they will be attending.
+
+
+№41
+Question: in sewing what does double thickness mean when laying out pattern?
+Model answer When laying out a pattern, double thickness means that two layers of fabric will be sewn together.
+Right answer = Double thickness means that you are to fold the fabric in half and cut two layers at once.  Usually the fabric is folded on the grain (the length) but sometimes it is folded on the width.  The way it is folded usually will not matter except for most efficient cutting.  The pattern instructions have a diagram to show the best way to lay out the pattern.
+
+
+№42
+Question: what's the remedy for "pink-eye"?
+Model answer The remedy for "pink-eye" is to wash your hands frequently and to avoid touching your eyes. Over-the-counter eye drops can also help relieve the symptoms.
+Right answer = warm tea bags. lay them on eyes until cold
+
+
+№43
+Question: How to get rid of this noises in my head?
+Model answer The best way to get rid of the noises in your head is to practice relaxation techniques such as deep breathing, progressive muscle relaxation, guided imagery, and meditation. These techniques can help to reduce stress and anxiety, which can help to reduce the noises in your head.
+Right answer = If your current doctor isn't really understanding what you're dealing with, you have the freedom to seek help from another doctor.. . I wonder... are you on Risperidone (Risperdal) for this problem?
+
+
+№44
+Question: How do I put my Avatar  on Yahoo Answers?
+Model answer To put your Avatar on Yahoo Answers, you need to first create an account. Once you have an account, you can upload your Avatar by clicking on the "My Account" link at the top of the page and then clicking on the "Edit Profile" link. You will then be able to upload your Avatar.
+Right answer = Click on your name to go to your profile page.  On the profile page, there is a link marked "Edit My Info" that will take you to a page where you can select a photo from your Yahoo! 360 page or your IM avatar.  I believe the link below should take you straight to the profile edit page.
+
+
+№45
+Question: how does a digital camera work?
+Model answer A digital camera works by capturing light and converting it into digital data. This data is then stored in the camera's memory card. The camera's lens focuses the light onto the image sensor, which then converts the light into digital data. The data is then processed by the camera's processor and sent to the LCD screen for viewing.
+Right answer = A digital camera works in much the same way as a film camera.  The camera (and its lense) allow light to come into the camera.  In a digital camera a sensor (typically a CCD sensor) captures and records the light that is captured coming into the camera.  The camera then takes this captured information and stores it on either a storage card or within the memory of the camera itself.
+
+
+№46
+Question: how do i confirm airline reservations with egypt airlines?
+Model answer To confirm your airline reservations with Egypt Airlines, you can call their customer service line at 1-800-EgyptAir (1-800-343-7242) or visit their website at www.egyptair.com.
+Right answer = 202 748 86 30. 202 728 91 22. 202 577 24 10. or check their web
+
+
+№47
+Question: how do I become a wine expert?
+Model answer To become a wine expert, you should start by learning about the different types of wine and how they are made. You should also familiarize yourself with the different regions where wine is produced, as well as the different types of grapes that are used to make wine. Additionally, you should become familiar with the different types of wine glasses and how they affect the taste of the wine. Finally, you should practice tasting and evaluating different wines.
+Right answer = It is almost like asking how do you become a expert in anything?  Honestly, drink a lot of wine, take notes, make comments on wine tastes and notes, hold wine tasting parties...etc
+
+
+№48
+Question: What is the measurement of the yeast in a yeast packet?
+Model answer The measurement of the yeast in a yeast packet is 2 grams.
+Right answer = I believe it is slightly less than 1 table spoon but I exchange 1 tablespoon for the packet.  The only possible difference is that the rise might occur slightly faster but not that noticable.
+
+
+№49
+Question: how can I reset the electronic speedometer of the new YAMAHA XT 125cc..?
+Model answer You can reset the electronic speedometer of the new YAMAHA XT 125cc by following these steps:
+1. Turn the ignition key to the ON position.
+2. Press and hold the SET/RESET button for 3 seconds.
+3. Release the SET/RESET button.
+4. Turn the ignition key to the OFF position.
+5. Press and hold the SET/RESET button for 3 seconds.
+6. Release the SET/RESET button.
+Right answer = Of course the "speedometer" can be reset to zero by stopping.  The "odometer" that measures milage in a modern vehicle (or bike) is designed to prevent resetting to avoid fraud when the bike is sold.  Good luck.
+
+
+№50
+Question: why Iraqi people doesnt get immigration easly to west countries?
+Model answer The Iraqi people do not get immigration easily to western countries for a variety of reasons. Firstly, many western countries have strict immigration laws, making it difficult for Iraqis to gain entry. Secondly, many western countries have a history of conflict with Iraq, making it difficult for Iraqis to gain entry. Thirdly, many western countries have a history of discrimination against Iraqis, making it difficult for Iraqis to gain entry. Finally, many western countries have a high cost of living, making it difficult for Iraqis to gain entry.
+Right answer = Go to the US Embassy or Consulate and ask for a K-12 visa application. If you are collage educated, this special visa will expidite your application.. let me know what happens.
+
+
+№51
+Question: how hot is a burning candle?
+Model answer A burning candle can reach temperatures of up to 1200 degrees Fahrenheit.
+Right answer = The inner most part of t he burning candle is 800 degrees centigrades. The outer parts are somewhat less hot by a 100-200 degrees.
+
+
+№52
+Question: Why is the Church of Scientology so defensive about their information getting published on the internet?
+Model answer The Church of Scientology is so defensive about their information getting published on the internet because they are concerned about the accuracy of the information that is being published. They want to make sure that the information being published is accurate and not misleading.
+Right answer = Because they are afraid that the beliefs of scientologists will get twisted if they are spread to people who don't know about it. Obviously it's already been twisted a whole bunch of times.
+
+
+№53
+Question: Why do golden retrievers have a bump on their head?
+Model answer Golden retrievers have a bump on their head because of a genetic mutation. This mutation causes a bump to form on the head of golden retrievers.
+Right answer = We always called it their "intelligence bump"...teasing that that was where all their brains were. If you asked any of our dogs they would tell you it is a good place for a scratch or pat on the head.  It is normal and nothing to worry about.
+
+
+№54
+Question: What is the difference between soups and stews?
+Model answer The main difference between soups and stews is the consistency of the ingredients. Soups tend to be thinner and lighter, while stews are usually thicker and heartier. Soups also tend to be served in bowls, while stews are usually served in a deep dish.
+Right answer = Stews are normally chunkier w/ larger more inexpensive cuts of meat since u simmer it on low heat for a long time. Most are made with a tomato base. while soups on the other hand don't require large cuts of meat and are perfect for a quick meal w/ little time and ingredients involved compared to stews.
+
+
+№55
+Question: why are people mean?
+Model answer People can be mean for a variety of reasons. Sometimes it is due to a lack of empathy or understanding, while other times it can be due to jealousy, anger, or other emotions. It can also be due to a lack of self-esteem or self-confidence.
+Right answer = Some people do it just because they know they can.  It gives them a feeling of satisfaction.  They cannot feel good about themselves unless they bring someone else down.
+
+
+Mean recall = 22.48
+Mean F1-score = 14.55
+Mean METEOR = 14.55
+Perplexity = 3.91

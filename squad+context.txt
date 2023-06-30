@@ -1,0 +1,396 @@
+№0
+Question: What is expected with the continuous input of sediment into the Dornbirner Ach?
+Context ([0.]): a regulation of the rhine was called for, with an upper canal near diepoldsau and a lower canal at fußach, in order to counteract the constant flooding and strong sedimentation in the western rhine delta. the dornbirner ach had to be diverted, too, and it now flows parallel to the canalized rhine into the lake. its water has a darker color than the rhine ; the latter's lighter suspended load comes from higher up the mountains. it is expected that the continuous input of sediment into the lake will silt up the lake. this has already happened to the former lake tuggenersee.
+Model answer It is expected that the continuous input of sediment into the lake will silt up the lake. This has already happened to the former lake Tuggenersee.
+Right answer = the continuous input of sediment into the lake will silt up the lake
+
+
+№1
+Question: Which of the three heavily populated areas has the least number of inhabitants?
+Context ([0.]): southern california includes the heavily built - up urban area stretching along the pacific coast from ventura, through the greater los angeles area and the inland empire, and down to greater san diego. southern california's population encompasses seven metropolitan areas, or msas : the los angeles metropolitan area, consisting of los angeles and orange counties ; the inland empire, consisting of riverside and san bernardino counties ; the san diego metropolitan area ; the oxnard – thousand oaks – ventura metropolitan area ; the santa barbara metro area ; the san luis obispo metropolitan area ; and the el centro area. out of these, three are heavy populated areas : the los angeles area with over 12 million inhabitants, the riverside - san bernardino area with over four million inhabitants, and the san diego area with over 3 million inhabitants. for csa metropolitan purposes, the five counties of los angeles, orange, riverside, san bernardino, and ventura are all combined to make up the greater los angeles area with over 17. 5 million people. with over 22 million people, southern california contains roughly 60 percent of california's population.
+Model answer The area with the least number of inhabitants is the El Centro area.
+Right answer = the San Diego area
+
+
+№2
+Question: How many of the following three fourth quarter drives after the field goal makng the score 16-10 ended in punts?
+Context ([84601768.]): pitt's act was deemed a failure because it quickly became apparent that the boundaries between government control and the company's powers were nebulous and highly subjective. the government felt obliged to respond to humanitarian calls for better treatment of local peoples in british - occupied territories. edmund burke, a former east india company shareholder and diplomat, was moved to address the situation and introduced a new regulating bill in 1783. the bill was defeated amid lobbying by company loyalists and accusations of nepotism in the bill's recommendations for the appointment of councillors.
+Model answer Two of the three fourth quarter drives ended in punts.
+Right answer = The next three drives
+
+
+№3
+Question: What would the latter Apollo missions carry to the moon to increase exploration?
+Context ([14737853.]): in season eight, latin grammy award - nominated singer – songwriter and record producer kara dioguardi was added as a fourth judge. she stayed for two seasons and left the show before season ten. paula abdul left the show before season nine after failing to agree terms with the show producers. emmy award - winning talk show host ellen degeneres replaced paula abdul for that season, but left after just one season. on january 11, 2010, simon cowell announced that he was leaving the show to pursue introducing the american version of his show the x factor to the usa for 2011. jennifer lopez and steven tyler joined the judging panel in season ten, but both left after two seasons. they were replaced by three new judges, mariah carey, nicki minaj and keith urban, who joined randy jackson in season 12. however both carey and minaj left after one season, and randy jackson also announced that he would depart the show after twelve seasons as a judge but would return as a mentor. urban is the only judge from season 12 to return in season 13. he was joined by previous judge jennifer lopez and former mentor harry connick, jr.. lopez, urban and connick, jr. all returned as judges for the show's fourteenth and fifteenth seasons.
+Model answer The latter Apollo missions would carry to the moon to increase exploration. They would carry scientific instruments, cameras, and other equipment to study the moon's surface.
+Right answer = lunar orbital sensors and cameras
+
+
+№4
+Question: What are cestida called?
+Context ([0.]): the cestida ( " belt animals " ) are ribbon - shaped planktonic animals, with the mouth and aboral organ aligned in the middle of opposite edges of the ribbon. there is a pair of comb - rows along each aboral edge, and tentilla emerging from a groove all along the oral edge, which stream back across most of the wing - like body surface. cestids can swim by undulating their bodies as well as by the beating of their comb - rows. there are two known species, with worldwide distribution in warm, and warm - temperate waters : cestum veneris ( " venus'girdle " ) is among the largest ctenophores – up to 1. 5 meters ( 4. 9 ft ) long, and can undulate slowly or quite rapidly. velamen parallelum, which is typically less than 20 centimeters ( 0. 66 ft ) long, can move much faster in what has been described as a " darting motion ".
+Model answer The cestida are called belt animals. They are ribbon-shaped planktonic animals, with the mouth and aboral organ aligned in the middle of opposite edges of the ribbon. There is a pair of comb-rows along each aboral edge, and tentilla emerging from a groove all along the oral edge, which stream back across most of the wing-like body surface. Cestids can swim by undulating their bodies as well as by the beating of their comb-rows. There are two known species, with worldwide distribution in warm, and warm-temperate
+Right answer = belt animals
+
+
+№5
+Question: What team did the Denver Broncos play in  Super Bowl XXXIII?
+Context ([60855412.]): on 20 september 2013, queen + adam lambert performed at the iheartradio music festival at the mgm grand hotel & casino in las vegas. on 6 march 2014, the band announced on good morning america that queen + adam lambert will tour north america in summer 2014. the band will also tour australia and new zealand in august / september 2014. in an interview with rolling stone, may and taylor said that although the tour with lambert is a limited thing, they are open to him becoming an official member, and cutting new material with him.
+Model answer The Denver Broncos played the Atlanta Falcons in Super Bowl XXXIII.
+Right answer = the Atlanta Falcons
+
+
+№6
+Question: Of what material were the death rays pellets made?
+Context ([18735410.]): some viruses store their entire genomes in the form of rna, and contain no dna at all. because they use rna to store genes, their cellular hosts may synthesize their proteins as soon as they are infected and without the delay in waiting for transcription. on the other hand, rna retroviruses, such as hiv, require the reverse transcription of their genome from rna into dna before their proteins can be synthesized. rna - mediated epigenetic inheritance has also been observed in plants and very rarely in animals.
+Model answer The death rays pellets were made of metal.
+Right answer = tungsten
+
+
+№7
+Question: What was Elway's final game as the Denver quarterback?
+Context ([9958558.]): according to pew research, 7 % of the population identifies as christian ; 4 % as muslim ; 1 % follows traditional animistic beliefs ; and 2 % follow other religions, including mahayana buddhism, hinduism, and east asian religions. however, according to a us state department's 2010 international religious freedom report, official statistics are alleged to underestimate the non - buddhist population. independent researchers put the muslim population at 6 to 10 % of the population [ citation needed ]. jehovah's witnesses have been present since 1914 and have about 80 congregations around the country and a branch office in yangon publishing in 16 languages. a tiny jewish community in rangoon had a synagogue but no resident rabbi to conduct services.
+Model answer According to Pew Research, 7% of the population identifies as Christian; 4% as Muslim; 1% follows traditional animistic beliefs; and 2% follow other religions, including Mahayana Buddhism, Hinduism, and East Asian religions. However, according to a US State Department's 2010 International Religious Freedom Report, official statistics are alleged to underestimate the non-Buddhist population. Independent researchers put the Muslim population at 6 to 10% of the population [citation needed]. Jehovah'
+Right answer = Super Bowl XXXIII
+
+
+№8
+Question: In which case was it held that the provisions of the treaties are directly effective if they are clear, unconditional, and don't require further action by EU or national authorities?
+Context ([0.]): although it is generally accepted that eu law has primacy, not all eu laws give citizens standing to bring claims : that is, not all eu laws have " direct effect ". in van gend en loos v nederlandse administratie der belastingen it was held that the provisions of the treaties ( and eu regulations ) are directly effective, if they are ( 1 ) clear and unambiguous ( 2 ) unconditional, and ( 3 ) did not require eu or national authorities to take further action to implement them. van gend en loos, a postal company, claimed that what is now tfeu article 30 prevented the dutch customs authorities charging tariffs, when it imported urea - formaldehyde plastics from germany to the netherlands. after a dutch court made a reference, the court of justice held that even though the treaties did not " expressly " confer a right on citizens or companies to bring claims, they could do so. historically, international treaties had only allowed states to have legal claims for their enforcement, but the court of justice proclaimed " the community constitutes a new legal order of international law ". because article 30 clearly, unconditionally and immediately stated that no quantitative restrictions could be placed on trade, without a good justification, van gend en loos could recover the money it paid for the tariff. eu regulations are the same as treaty provisions in this sense, because as tfeu article 288 states, they are ‘ directly applicable in all member states ’. moreover, member states comes under a duty not to replicate regulations in their own law, in order to prevent confusion. for instance, in commission v italy the court of justice held that italy had breached a duty under the treaties, both by failing to operate a scheme to pay farmers a premium to slaughter cows ( to reduce dairy overproduction ), and by reproducing the rules in a decree with various additions. " regulations, " held the court of justice, " come into force solely by virtue of their publication " and implementation could have the effect of " jeopardizing their simultaneous and uniform application in the whole of the union. " on the other hand, some regulations may themselves expressly require implementing measures, in which case those specific rules should be followed.
+Model answer The provisions of the treaties are directly effective if they are clear, unconditional, and do not require further action by EU or national authorities.
+Right answer = Van Gend en Loos v Nederlandse Administratie der Belastingen
+
+
+№9
+Question: When did Tesla make the induction motor?
+Context ([4535666.]): after watching the race back think i overreacted with my feelings about lewis's move. i can understand why he thought i was giving him room. — jenson button ( @ jensonbutton ) july 20, 2014
+Model answer Tesla made the induction motor in 2014.
+Right answer = 1887
+
+
+№10
+Question: What type of civil disobedience is accompanied by aggression?
+Context ([0.]): legrande writes that " the formulation of a single all - encompassing definition of the term is extremely difficult, if not impossible. in reviewing the voluminous literature on the subject, the student of civil disobedience rapidly finds himself surrounded by a maze of semantical problems and grammatical niceties. like alice in wonderland, he often finds that specific terminology has no more ( or no less ) meaning than the individual orator intends it to have. " he encourages a distinction between lawful protest demonstration, nonviolent civil disobedience, and violent civil disobedience.
+Model answer Nonviolent civil disobedience.
+Right answer = violent civil disobedience
+
+
+№11
+Question: What type of goals are usually done skirting the law?
+Context ([0.]): civil disobedients have chosen a variety of different illegal acts. bedau writes, " there is a whole class of acts, undertaken in the name of civil disobedience, which, even if they were widely practiced, would in themselves constitute hardly more than a nuisance ( e. g. trespassing at a nuclear - missile installation )... such acts are often just a harassment and, at least to the bystander, somewhat inane... the remoteness of the connection between the disobedient act and the objectionable law lays such acts open to the charge of ineffectiveness and absurdity. " bedau also notes, though, that the very harmlessness of such entirely symbolic illegal protests toward public policy goals may serve a propaganda purpose. some civil disobedients, such as the proprietors of illegal medical cannabis dispensaries and voice in the wilderness, which brought medicine to iraq without the permission of the u. s. government, directly achieve a desired social goal ( such as the provision of medication to the sick ) while openly breaking the law. julia butterfly hill lived in luna, a 180 - foot ( 55 m ) - tall, 600 - year - old california redwood tree for 738 days, successfully preventing it from being cut down.
+Model answer Civil disobedients have chosen a variety of different illegal acts. Bedau writes, " There is a whole class of acts, undertaken in the name of civil disobedience, which, even if they were widely practiced, would in themselves constitute hardly more than a nuisance ( e. g. trespassing at a nuclear - missile installation )... Such acts are often just a harassment and, at least to the bystander, somewhat inane... The remoteness of the connection between the disobedient act and the objectionable law lays such acts open
+Right answer = protests toward public policy
+
+
+№12
+Question: What did Alec Shelbrooke propose payments of benefits to be made on?
+Context ([0.]): the daily mail newspaper reported in 2012 that the uk government's benefits agency was checking claimants'" sky tv bills to establish if a woman in receipt of benefits as a single mother is wrongly claiming to be living alone " – as, it claimed, subscription to sports channels would betray a man's presence in the household. in december, the uk ’ s parliament heard a claim that a subscription to bskyb was ‘ often damaging ’, along with alcohol, tobacco and gambling. conservative mp alec shelbrooke was proposing the payments of benefits and tax credits on a " welfare cash card ", in the style of the supplemental nutrition assistance program, that could be used to buy only " essentials ".
+Model answer Alec Shelbrooke proposed payments of benefits and tax credits on a " welfare cash card ", in the style of the supplemental nutrition assistance program, that could be used to buy only " essentials ".
+Right answer = Welfare Cash Card
+
+
+№13
+Question: Most schools established by the UMC are members of what group?
+Context ([1092388.]): to meet the need for more office space downtown without compromising the city's heritage, the city council amended heritage regulations, which originally restricted height to 15 metres in the area of land on water street between bishop's cove and steer's cove, to create the " commercial central retail – west zone ". the new zone will allow for buildings of greater height. a 47 - metre, 12 - storey office building, which includes retail space and a parking garage, was the first building to be approved in this area.
+Model answer The new zone will allow for buildings of greater height.
+Right answer = the International Association of Methodist-related Schools, Colleges, and Universities
+
+
+№14
+Question: The freedom to provide services under TFEU article 56 applies to who?
+Context ([0.]): the " freedom to provide services " under tfeu article 56 applies to people who give services " for remuneration ", especially commercial or professional activity. for example, in van binsbergen v bestuur van de bedrijfvereniging voor de metaalnijverheid a dutch lawyer moved to belgium while advising a client in a social security case, and was told he could not continue because dutch law said only people established in the netherlands could give legal advice. the court of justice held that the freedom to provide services applied, it was directly effective, and the rule was probably unjustified : having an address in the member state would be enough to pursue the legitimate aim of good administration of justice. the court of justice has held that secondary education falls outside the scope of article 56, because usually the state funds it, though higher education does not. health care generally counts as a service. in geraets - smits v stichting ziekenfonds mrs geraets - smits claimed she should be reimbursed by dutch social insurance for costs of receiving treatment in germany. the dutch health authorities regarded the treatment unnecessary, so she argued this restricted the freedom ( of the german health clinic ) to provide services. several governments submitted that hospital services should not be regarded as economic, and should not fall within article 56. but the court of justice held health was a " service " even though the government ( rather than the service recipient ) paid for the service. national authorities could be justified in refusing to reimburse patients for medical services abroad if the health care received at home was without undue delay, and it followed " international medical science " on which treatments counted as normal and necessary. the court requires that the individual circumstances of a patient justify waiting lists, and this is also true in the context of the uk's national health service. aside from public services, another sensitive field of services are those classified as illegal. josemans v burgemeester van maastricht held that the netherlands'regulation of cannabis consumption, including the prohibitions by some municipalities on tourists ( but not dutch nationals ) going to coffee shops, fell outside article 56 altogether. the court of justice reasoned that narcotic drugs were controlled in all member states, and so this differed from other cases where prostitution or other quasi - legal activity was subject to restriction. if an activity does fall within article 56, a restriction can be justified under article 52 or overriding requirements developed by the court of
+Model answer The freedom to provide services under TFEU article 56 applies to people who give services for remuneration, especially commercial or professional activity. For example, in Van Binsbergen v Bestuur van de Bedrijfvereniging voor de Metaalnijverheid a Dutch lawyer moved to Belgium while advising a client in a social security case, and was told he could not continue because Dutch law said only people established in the Netherlands could give legal advice. The Court of Justice held that the freedom to provide services applied, it was directly effective, and the rule was probably unjustified: having
+Right answer = people who give services "for remuneration", especially commercial or professional activity
+
+
+№15
+Question: Who financed General Electric's attempts to takeover Westinghouse?
+Context ([18339744.]): few species of reptiles or amphibians are found in great britain or ireland. only three snakes are native to great britain : the common european adder, the grass snake and the smooth snake ; none are native to ireland. in general, great britain has slightly more variation and native wild life, with weasels, polecats, wildcats, most shrews, moles, water voles, roe deer and common toads also being absent from ireland. this pattern is also true for birds and insects. notable exceptions include the kerry slug and certain species of wood lice native to ireland but not great britain.
+Model answer Few species of reptiles or amphibians are found in Great Britain or Ireland. Only three snakes are native to Great Britain: the Common European Adder, the Grass Snake and the Smooth Snake; none are native to Ireland. In general, Great Britain has slightly more variation and native wildlife, with weasels, polecats, wildcats, most shrews, moles, water voles, roe deer and common toads also being absent from Ireland. This pattern is also true for birds and insects. Notable exceptions include the Kerry Slug and
+Right answer = J. P. Morgan
+
+
+№16
+Question: What was Dalton's erroneous formula for water?
+Context ([0.]): john dalton's original atomic hypothesis assumed that all elements were monatomic and that the atoms in compounds would normally have the simplest atomic ratios with respect to one another. for example, dalton assumed that water's formula was ho, giving the atomic mass of oxygen as 8 times that of hydrogen, instead of the modern value of about 16. in 1805, joseph louis gay - lussac and alexander von humboldt showed that water is formed of two volumes of hydrogen and one volume of oxygen ; and by 1811 amedeo avogadro had arrived at the correct interpretation of water's composition, based on what is now called avogadro's law and the assumption of diatomic elemental molecules. [ a ]
+Model answer Dalton's erroneous formula for water was ho, giving the atomic mass of oxygen as 8 times that of hydrogen, instead of the modern value of about 16.
+Right answer = HO
+
+
+№17
+Question: What status has the Brotherhood obtained in the Islamic world?
+Context ([0.]): despite periodic repression, the brotherhood has become one of the most influential movements in the islamic world, particularly in the arab world. for many years it was described as " semi - legal " and was the only opposition group in egypt able to field candidates during elections. in the egyptian parliamentary election, 2011 – 2012, the political parties identified as " islamist " ( the brotherhood's freedom and justice party, salafi al - nour party and liberal islamist al - wasat party ) won 75 % of the total seats. mohamed morsi, an islamist democrat of muslim brotherhood, was the first democratically elected president of egypt. he was deposed during the 2013 egyptian coup d'etat.
+Model answer The Brotherhood has become one of the most influential movements in the Islamic world, particularly in the Arab world. For many years it was described as "semi-legal" and was the only opposition group in Egypt able to field candidates during elections. In the Egyptian Parliamentary Election, 2011-2012, the political parties identified as "Islamist" (the Brotherhood's Freedom and Justice Party, Salafi Al-Nour Party and Liberal Islamist Al-Wasat Party) won 75% of the total seats. Moh
+Right answer = one of the most influential movements
+
+
+№18
+Question: When did ABC begin broadcasting the Miss America Pageant?
+Context ([4886502.]): hunting is claimed to give resource managers an important tool in managing populations that might exceed the carrying capacity of their habitat and threaten the well - being of other species, or, in some instances, damage human health or safety. [ citation needed ] however, in most circumstances carrying capacity is determined by a combination habitat and food availability, and hunting for'population control'has no effect on the annual population of species. [ citation needed ] in some cases, it can increase the population of predators such as coyotes by removing territorial bounds that would otherwise be established, resulting in excess neighbouring migrations into an area, thus artificially increasing the population. hunting advocates [ who? ] assert that hunting reduces intraspecific competition for food and shelter, reducing mortality among the remaining animals. some environmentalists assert [ who? ] that ( re ) introducing predators would achieve the same end with greater efficiency and less negative effect, such as introducing significant amounts of free lead into the environment and food chain.
+Model answer ABC began broadcasting the Miss America Pageant in 1954.
+Right answer = 1954
+
+
+№19
+Question: When was 7 Lincoln Square completed?
+Context ([553717.]): the two major types of nonprofit organization are membership and board - only. a membership organization elects the board and has regular meetings and the power to amend the bylaws. a board - only organization typically has a self - selected board, and a membership whose powers are limited to those delegated to it by the board. a board - only organization's bylaws may even state that the organization does not have any membership, although the organization's literature may refer to its donors or service recipients as " members " ; examples of such organizations are fairvote and the national organization for the reform of marijuana laws. the model nonprofit corporation act imposes many complexities and requirements on membership decision - making. accordingly, many organizations, such as wikimedia, have formed board - only structures. the national association of parliamentarians has generated concerns about the implications of this trend for the future of openness, accountability, and understanding of public concerns in nonprofit organizations. specifically, they note that nonprofit organizations, unlike business corporations, are not subject to market discipline for products and shareholder discipline of their capital ; therefore, without membership control of major decisions such as election of the board, there are few inherent safeguards against abuse. a rebuttal to this might be that as nonprofit organizations grow and seek larger donations, the degree of scrutiny increases, including expectations of audited financial statements. a further rebuttal might be that npos are constrained, by their choice of legal structure, from financial benefit as far as distribution of profit to its members / directors is concerned. beware of board - only organizations - review the board members annual income before donating, such as the clinton foundation. board members who decide what percentage of your donations will increase their personal wealth are rampant in abusing this designation of an npo, and this is why they attempt to avoid audits and use a double bottom line for taxing.
+Model answer 7 Lincoln Square was completed in 2019.
+Right answer = June 1979
+
+
+№20
+Question: In what year did Tesla die? 
+Context ([1521.]): gamal abdel nasser hussein ( arabic : جمال عبد الناصر حسين, ipa : [ ɡæˈmæːl ħeˈseːn ] ; 15 january 1918 – 28 september 1970 ) was the second president of egypt, serving from 1956 until his death. nasser led the 1952 overthrow of the monarchy and introduced far - reaching land reforms the following year. following a 1954 attempt on his life by a muslim brotherhood member acting on his own, he cracked down on the organization, put president muhammad naguib under house arrest, and assumed executive office, officially becoming president in june 1956.
+Model answer 1970.
+Right answer = 1943
+
+
+№21
+Question: The Rhine forms the border between Austria and what other country? 
+Context ([0.]): near tamins - reichenau the anterior rhine and the posterior rhine join and form the rhine. the river makes a distinctive turn to the north near chur. this section is nearly 86 km long, and descends from a height of 599 m to 396 m. it flows through a wide glacial alpine valley known as the rhine valley ( german : rheintal ). near sargans a natural dam, only a few metres high, prevents it from flowing into the open seeztal valley and then through lake walen and lake zurich into the river aare. the alpine rhine begins in the most western part of the swiss canton of graubunden, and later forms the border between switzerland to the west and liechtenstein and later austria to the east.
+Model answer The Rhine forms the border between Austria and Liechtenstein.
+Right answer = Liechtenstein
+
+
+№22
+Question: When did Augustus die?
+Context ([0.]): from the death of augustus in ad 14 until after ad 70, rome accepted as her germanic frontier the water - boundary of the rhine and upper danube. beyond these rivers she held only the fertile plain of frankfurt, opposite the roman border fortress of moguntiacum ( mainz ), the southernmost slopes of the black forest and a few scattered bridge - heads. the northern section of this frontier, where the rhine is deep and broad, remained the roman boundary until the empire fell. the southern part was different. the upper rhine and upper danube are easily crossed. the frontier which they form is inconveniently long, enclosing an acute - angled wedge of foreign territory between the modern baden and wurttemberg. the germanic populations of these lands seem in roman times to have been scanty, and roman subjects from the modern alsace - lorraine had drifted across the river eastwards.
+Model answer Augustus died in AD 14.
+Right answer = AD 14
+
+
+№23
+Question: When does photorespiration happen?
+Context ([4434868.]): within the diasporan armenian community, there is an unofficial classification of the different kinds of armenians. for example, armenians who originate from iran are referred to as parskahay ( պարսկահայ ), while armenians from lebanon are usually referred to as lipananahay ( լիբանանահայ ). armenians of the diaspora are the primary speakers of the western dialect of the armenian language. this dialect has considerable differences with eastern armenian, but speakers of either of the two variations can usually understand each other. eastern armenian in the diaspora is primarily spoken in iran and european countries such as ukraine, russia, and georgia ( where they form a majority in the samtskhe - javakheti province ). in diverse communities ( such as in canada and the u. s. ) where many different kinds of armenians live together, there is a tendency for the different groups to cluster together.
+Model answer Photorespiration occurs in the light-dependent reactions of photosynthesis.
+Right answer = when the oxygen concentration is too high
+
+
+№24
+Question: What does the acronym CSM stand for?
+Context ([435010.]): the jurisdictions of the city's administrative agencies are, in ascending order of size : the hyderabad police area, hyderabad district, the ghmc area ( " hyderabad city " ) and the area under the hyderabad metropolitan development authority ( hmda ). the hmda is an apolitical urban planning agency that covers the ghmc and its suburbs, extending to 54 mandals in five districts encircling the city. it coordinates the development activities of ghmc and suburban municipalities and manages the administration of bodies such as the hyderabad metropolitan water supply and sewerage board ( hmwssb ).
+Model answer The acronym CSM stands for City's Administrative Agencies.
+Right answer = Command/Service Module
+
+
+№25
+Question: The atomic number of the periodic table for oxygen?
+Context ([0.]): oxygen is a chemical element with symbol o and atomic number 8. it is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds ( notably oxides ) with most elements. by mass, oxygen is the third - most abundant element in the universe, after hydrogen and helium. at standard temperature and pressure, two atoms of the element bind to form dioxygen, a colorless and odorless diatomic gas with the formula o 2. diatomic oxygen gas constitutes 20. 8 % of the earth's atmosphere. however, monitoring of atmospheric oxygen levels show a global downward trend, because of fossil - fuel burning. oxygen is the most abundant element by mass in the earth's crust as part of oxide compounds such as silicon dioxide, making up almost half of the crust's mass.
+Model answer The atomic number of oxygen is 8.
+Right answer = 8
+
+
+№26
+Question: Would word means burn in the Anglo-Saxon language?
+Context ([3207106.]): in 2002, the taiwan solidarity union, a party with about 10 % of the legislative yuan seats at the time, suggested making taiwanese a second official language. this proposal encountered strong opposition not only from mainlander groups but also from hakka and taiwanese aboriginal groups who felt that it would slight their home languages, as well as others including hoklo who objected to the proposal on logistical grounds and on the grounds that it would increase ethnic tensions. because of these objections, support for this measure was lukewarm among moderate taiwan independence supporters, and the proposal did not pass.
+Model answer Yes, word means burn in the Anglo-Saxon language.
+Right answer = stream
+
+
+№27
+Question: How is the process of allocating seats repeated until all available seats have been determined?
+Context ([0.]): the total number of seats in the parliament are allocated to parties proportionally to the number of votes received in the second vote of the ballot using the d'hondt method. for example, to determine who is awarded the first list seat, the number of list votes cast for each party is divided by one plus the number of seats the party won in the region ( at this point just constituency seats ). the party with the highest quotient is awarded the seat, which is then added to its constituency seats in allocating the second seat. this is repeated iteratively until all available list seats are allocated.
+Model answer The process of allocating seats is repeated until all available seats have been determined. First, the number of list votes cast for each party is divided by one plus the number of seats the party won in the region ( at this point just constituency seats ). The party with the highest quotient is awarded the seat, which is then added to its constituency seats in allocating the second seat. This is repeated iteratively until all available list seats are allocated.
+Right answer = iteratively
+
+
+№28
+Question: How was the ctenophore mnemiopsis leidyi introduced into The Black Sea and the Sea of Azov?
+Context ([0.]): on the other hand, in the late 1980s the western atlantic ctenophore mnemiopsis leidyi was accidentally introduced into the black sea and sea of azov via the ballast tanks of ships, and has been blamed for causing sharp drops in fish catches by eating both fish larvae and small crustaceans that would otherwise feed the adult fish. mnemiopsis is well equipped to invade new territories ( although this was not predicted until after it so successfully colonized the black sea ), as it can breed very rapidly and tolerate a wide range of water temperatures and salinities. the impact was increased by chronic overfishing, and by eutrophication that gave the entire ecosystem a short - term boost, causing the mnemiopsis population to increase even faster than normal – and above all by the absence of efficient predators on these introduced ctenophores. mnemiopsis populations in those areas were eventually brought under control by the accidental introduction of the mnemiopsis - eating north american ctenophore beroe ovata, and by a cooling of the local climate from 1991 to 1993, which significantly slowed the animal's metabolism. however the abundance of plankton in the area seems unlikely to be restored to pre - mnemiopsis levels.
+Model answer The ctenophore Mnemiopsis leidyi was introduced into The Black Sea and the Sea of Azov on the other hand, in the late 1980s the western atlantic ctenophore Mnemiopsis leidyi was accidentally introduced into the black sea and sea of azov via the ballast tanks of ships, and has been blamed for causing sharp drops in fish catches by eating both fish larvae and small crustaceans that would otherwise feed the adult fish. Mnemiopsis is well equipped to invade new territories
+Right answer = via the ballast tanks of ships
+
+
+№29
+Question: What is the minimum required if you want to teach in Canada?
+Context ([2319091.]): beyonce has worked with pepsi since 2002, and in 2004 appeared in a gladiator - themed commercial with britney spears, pink, and enrique iglesias. in 2012, beyonce signed a $ 50 million deal to endorse pepsi. the center for science in the public interest ( cspinet ) wrote beyonce an open letter asking her to reconsider the deal because of the unhealthiness of the product and to donate the proceeds to a medical organisation. nevertheless, netbase found that beyonce's campaign was the most talked about endorsement in april 2013, with a 70 per cent positive audience response to the commercial and print ads.
+Model answer The minimum required to teach in Canada is a Bachelor's degree.
+Right answer = a post-secondary degree Bachelor's Degree
+
+
+№30
+Question: What did the analysis from the sediment deposits indicate? 
+Context ([0.]): there is evidence that there have been significant changes in amazon rainforest vegetation over the last 21, 000 years through the last glacial maximum ( lgm ) and subsequent deglaciation. analyses of sediment deposits from amazon basin paleolakes and from the amazon fan indicate that rainfall in the basin during the lgm was lower than for the present, and this was almost certainly associated with reduced moist tropical vegetation cover in the basin. there is debate, however, over how extensive this reduction was. some scientists argue that the rainforest was reduced to small, isolated refugia separated by open forest and grassland ; other scientists argue that the rainforest remained largely intact but extended less far to the north, south, and east than is seen today. this debate has proved difficult to resolve because the practical limitations of working in the rainforest mean that data sampling is biased away from the center of the amazon basin, and both explanations are reasonably well supported by the available data.
+Model answer The analysis of sediment deposits from Amazon Basin Paleolakes and from the Amazon Fan indicates that rainfall in the basin during the Last Glacial Maximum (LGM) was lower than for the present, and this was almost certainly associated with reduced moist tropical vegetation cover in the basin. There is debate, however, over how extensive this reduction was. Some scientists argue that the rainforest was reduced to small, isolated refugia separated by open forest and grassland; other scientists argue that the rainforest remained largely intact but extended less far to the north, south
+Right answer = rainfall in the basin during the LGM was lower than for the present
+
+
+№31
+Question: Who did Jamukha support that were not part of Temüjin's power base?
+Context ([77988864.]): some theories of civil disobedience hold that civil disobedience is only justified against governmental entities. brownlee argues that disobedience in opposition to the decisions of non - governmental agencies such as trade unions, banks, and private universities can be justified if it reflects " a larger challenge to the legal system that permits those decisions to be taken ". the same principle, she argues, applies to breaches of law in protest against international organizations and foreign governments.
+Model answer Jamukha supported those who were not part of Temüjin's power base, such as international organizations and foreign governments.
+Right answer = the traditional Mongolian aristocracy
+
+
+№32
+Question: Why is the seating of the debating chamber arranged as it is?
+Context ([0.]): the debating chamber of the scottish parliament has seating arranged in a hemicycle, which reflects the desire to encourage consensus amongst elected members. there are 131 seats in the debating chamber. of the total 131 seats, 129 are occupied by the parliament's elected msps and 2 are seats for the scottish law officers – the lord advocate and the solicitor general for scotland, who are not elected members of the parliament but are members of the scottish government. as such the law officers may attend and speak in the plenary meetings of the parliament but, as they are not elected msps, cannot vote. members are able to sit anywhere in the debating chamber, but typically sit in their party groupings. the first minister, scottish cabinet ministers and law officers sit in the front row, in the middle section of the chamber. the largest party in the parliament sits in the middle of the semicircle, with opposing parties on either side. the presiding officer, parliamentary clerks and officials sit opposite members at the front of the debating chamber.
+Model answer 
+Right answer = encourage consensus amongst elected members
+
+
+№33
+Question: In what process is the uptake from oxygen necessary?
+Context ([0.]): uptake of o 2 from the air is the essential purpose of respiration, so oxygen supplementation is used in medicine. treatment not only increases oxygen levels in the patient's blood, but has the secondary effect of decreasing resistance to blood flow in many types of diseased lungs, easing work load on the heart. oxygen therapy is used to treat emphysema, pneumonia, some heart disorders ( congestive heart failure ), some disorders that cause increased pulmonary artery pressure, and any disease that impairs the body's ability to take up and use gaseous oxygen.
+Model answer In respiration.
+Right answer = respiration
+
+
+№34
+Question: What does the Scotland Act of 2012 extend?
+Context ([0.]): the scotland act 1998, which was passed by the parliament of the united kingdom and given royal assent by queen elizabeth ii on 19 november 1998, governs the functions and role of the scottish parliament and delimits its legislative competence. the scotland act 2012 extends the devolved competencies. for the purposes of parliamentary sovereignty, the parliament of the united kingdom at westminster continues to constitute the supreme legislature of scotland. however, under the terms of the scotland act, westminster agreed to devolve some of its responsibilities over scottish domestic policy to the scottish parliament. such " devolved matters " include education, health, agriculture and justice. the scotland act enabled the scottish parliament to pass primary legislation on these issues. a degree of domestic authority, and all foreign policy, remain with the uk parliament in westminster. the scottish parliament has the power to pass laws and has limited tax - varying capability. another of the roles of the parliament is to hold the scottish government to account.
+Model answer The Scotland Act of 2012 extended the devolved competencies. For the purposes of parliamentary sovereignty, the Parliament of the United Kingdom at Westminster continues to constitute the supreme legislature of Scotland. However, under the terms of the Scotland Act, Westminster agreed to devolve some of its responsibilities over Scottish domestic policy to the Scottish Parliament. Such "devolved matters" include education, health, agriculture and justice. The Scotland Act enabled the Scottish Parliament to pass primary legislation on these issues. A degree of domestic authority, and all foreign policy
+Right answer = the devolved competencies
+
+
+№35
+Question: What were the first two destinations of Huguenot emigres?
+Context ([0.]): the first huguenots to leave france sought freedom from persecution in switzerland and the netherlands. [ citation needed ] a group of huguenots was part of the french colonisers who arrived in brazil in 1555 to found france antarctique. a couple of ships with around 500 people arrived at the guanabara bay, present - day rio de janeiro, and settled in a small island. a fort, named fort coligny, was built to protect them from attack from the portuguese troops and brazilian native americans. it was an attempt to establish a french colony in south america. the fort was destroyed in 1560 by the portuguese, who captured part of the huguenots. the portuguese threatened the prisoners with death if they did not convert to catholicism. the huguenots of guanabara, as they are now known, produced a declaration of faith to express their beliefs to the portuguese. this was their death sentence. this document, the guanabara confession of faith, became the first protestant confession of faith in the whole of the americas. [ citation needed ]
+Model answer The first two destinations of Huguenot emigres were Switzerland and the Netherlands.
+Right answer = Switzerland and the Netherlands.
+
+
+№36
+Question: What's Thomas Piketty's job?
+Context ([0.]): studies on income inequality and growth have sometimes found evidence confirming the kuznets curve hypothesis, which states that with economic development, inequality first increases, then decreases. economist thomas piketty challenges this notion, claiming that from 1914 to 1945 wars and " violent economic and political shocks " reduced inequality. moreover, piketty argues that the " magical " kuznets curve hypothesis, with its emphasis on the balancing of economic growth in the long run, cannot account for the significant increase in economic inequality throughout the developed world since the 1970s.
+Model answer Thomas Piketty is a French economist who specializes in the study of income inequality and economic growth. He has challenged the Kuznets Curve Hypothesis, which states that with economic development, inequality first increases, then decreases. Piketty argues that the "magical" Kuznets Curve Hypothesis, with its emphasis on the balancing of economic growth in the long run, cannot account for the significant increase in economic inequality throughout the developed world since the 1970s.
+Right answer = Economist
+
+
+№37
+Question: What is a synonym for chloroplast DNA?
+Context ([40721128.]): the synagogue in eshtemoa ( as - samu ) was built around the 4th century. the mosaic floor is decorated with only floral and geometric patterns. the synagogue in khirbet susiya ( excavated in 1971 – 72, founded in the end of the 4th century ) has three mosaic panels, the eastern one depicting a torah shrine, two menorahs, a lulav and an etrog with columns, deer and rams. the central panel is geometric while the western one is seriously damaged but it has been suggested that it depicted daniel in the lion ’ s den. the roman synagogue in ein gedi was remodeled in the byzantine era and a more elaborate mosaic floor was laid down above the older white panels. the usual geometric design was enriched with birds in the center. it includes the names of the signs of the zodiac and important figures from the jewish past but not their images suggesting that it served a rather conservative community.
+Model answer The synagogue in eshtemoa ( as - samu ) was built around the 4th century. The mosaic floor is decorated with only floral and geometric patterns. The synagogue in khirbet susiya ( excavated in 1971 – 72, founded in the end of the 4th century ) has three mosaic panels, the eastern one depicting a torah shrine, two menorahs, a lulav and an etrog with columns, deer and rams. The central panel is geometric while the
+Right answer = the plastome
+
+
+№38
+Question: What month and day did Kennedy message his vice president about the status of the program?
+Context ([4505950.]): in march 2011, it was said on the wayback machine forum that " the beta of the new wayback machine has a more complete and up - to - date index of all crawled materials into 2010, and will continue to be updated regularly. the index driving the classic wayback machine only has a little bit of material past 2008, and no further index updates are planned, as it will be phased out this year ".
+Model answer Kennedy message his vice president about the status of the program in March 2011.
+Right answer = April 20
+
+
+№39
+Question: Who did Newton complete a 45 yard pass to on the opening drive of the second half?
+Context ([10454612.]): between the 1992 – 93 season and the 2012 – 13 season, premier league clubs had won the uefa champions league four times ( as well as supplying five of the runners - up ), behind spain's la liga with six wins, and italy's serie a with five wins, and ahead of, among others, germany's bundesliga with three wins ( see table here ). the fifa club world cup ( or the fifa club world championship, as it was originally called ) has been won by premier league clubs once ( manchester united in 2008 ), and they have also been runners - up twice, behind brazil's brasileirao with four wins, and spain's la liga and italy's serie a with two wins each ( see table here ).
+Model answer Between the 1992 – 93 season and the 2012 – 13 season, premier league clubs had won the uefa champions league four times ( as well as supplying five of the runners - up ), behind spain's la liga with six wins, and italy's serie a with five wins, and ahead of, among others, germany's bundesliga with three wins ( see table here ). The fifa club world cup ( or the fifa club world championship, as it was originally called ) has been won by premier league clubs once
+Right answer = Ted Ginn Jr.
+
+
+№40
+Question: What is the opposite of an ongoing role of teaching?
+Context ([1554827.]): puerto rico's constitution expressly forbids capital punishment, stating " the death penalty shall not exist ", setting it apart from all u. s. states and territories other than michigan, which also has a constitutional prohibition ( eleven other states and the district of columbia have abolished capital punishment through statutory law ). however, capital punishment is still applicable to offenses committed in puerto rico, if they fall under the jurisdiction of the federal government, though federal death penalty prosecutions there have generated significant controversy.
+Model answer The opposite of an ongoing role of teaching is not teaching.
+Right answer = Informal learning
+
+
+№41
+Question: What is the main defense mechanism of bacteria known as?
+Context ([0.]): it is likely that a multicomponent, adaptive immune system arose with the first vertebrates, as invertebrates don't generate lymphocytes or an antibody - based humoral response. many species, however, utilize mechanisms that appear to be precursors of these aspects of vertebrate immunity. immune systems appear even in the structurally most simple forms of life, with bacteria using a unique defense mechanism, called the restriction modification system to protect themselves from viral pathogens, called bacteriophages. prokaryotes also possess acquired immunity, through a system that uses crispr sequences to retain fragments of the genomes of phage that they have come into contact with in the past, which allows them to block virus replication through a form of rna interference. offensive elements of the immune systems are also present in unicellular eukaryotes, but studies of their roles in defense are few.
+Model answer The main defense mechanism of bacteria known as the restriction modification system.
+Right answer = the restriction modification system
+
+
+№42
+Question: Where did Montcalm move his heaquarter to show strategic advancement?
+Context ([0.]): the new british command was not in place until july. when he arrived in albany, abercrombie refused to take any significant actions until loudoun approved them. montcalm took bold action against his inertia. building on vaudreuil's work harassing the oswego garrison, montcalm executed a strategic feint by moving his headquarters to ticonderoga, as if to presage another attack along lake george. with abercrombie pinned down at albany, montcalm slipped away and led the successful attack on oswego in august. in the aftermath, montcalm and the indians under his command disagreed about the disposition of prisoners'personal effects. the europeans did not consider them prizes and prevented the indians from stripping the prisoners of their valuables, which angered the indians.
+Model answer Montcalm moved his headquarters to Ticonderoga, as if to presage another attack along Lake George.
+Right answer = Ticonderoga
+
+
+№43
+Question: What was the first spacecraft to orbit another celestial body?
+Context ([13762464.]): typical use of the various technologies described above include calling or conferencing on a one - on - one, one - to - many or many - to - many basis for personal, business, educational, deaf video relay service and tele - medical, diagnostic and rehabilitative use or services. new services utilizing videocalling and videoconferencing, such as teachers and psychologists conducting online sessions, personal videocalls to inmates incarcerated in penitentiaries, and videoconferencing to resolve airline engineering issues at maintenance facilities, are being created or evolving on an ongoing basis.
+Model answer The first spacecraft to orbit another celestial body was Sputnik 1 in 1957.
+Right answer = Apollo 8
+
+
+№44
+Question: Which denomination has more of an individualistic streak?
+Context ([17639476.]): private schools are often anglican, such as king's college and diocesan school for girls in auckland, st paul's collegiate school in hamilton, st peter's school in cambridge, samuel marsden collegiate school in wellington, and christ's college and st margaret's college in christchurch ; or presbyterian, such as saint kentigern college and st cuthbert's college in auckland, scots college and queen margaret college in wellington, and st andrew's college and rangi ruru girls'school in christchurch. academic colleges group is a recent group of private schools run as a business, with schools throughout auckland, including acg senior college in auckland ’ s cbd, acg parnell college in parnell, and international school acg new zealand international college. there are three private schools ( including the secondary school, st dominic's college ) operated by the catholic schismatic group, the society of st pius x in wanganui.
+Model answer Anglican
+Right answer = Protestant
+
+
+№45
+Question: Who said chloroplasts are similar to cyanobacteria?
+Context ([1.3092248e+08]): the proportion of non - repetitive dna is calculated by using the length of non - repetitive dna divided by genome size. protein - coding genes and rna - coding genes are generally non - repetitive dna. a bigger genome does not mean more genes, and the proportion of non - repetitive dna decreases along with increasing genome size in higher eukaryotes.
+Model answer 
+Right answer = Andreas Schimper
+
+
+№46
+Question: How did William Shirley feel about French advancement?
+Context ([0.]): in his extensively detailed report, celoron wrote, " all i can say is that the natives of these localities are very badly disposed towards the french, and are entirely devoted to the english. i don't know in what way they could be brought back. " even before his return to montreal, reports on the situation in the ohio country were making their way to london and paris, each side proposing that action be taken. william shirley, the expansionist governor of the province of massachusetts bay, was particularly forceful, stating that british colonists would not be safe as long as the french were present. conflicts between the colonies, accomplished through raiding parties that included indian allies, had taken place for decades, leading to a brisk trade in european colonial captives from either side.
+Model answer William Shirley felt that the French advancement was a threat to British colonists and that action needed to be taken to protect them.
+Right answer = British colonists would not be safe
+
+
+№47
+Question: What did Martin Luther's marriage allow?
+Context ([2164476.]): the extensive campaigning abroad by roman generals, and the rewarding of soldiers with plunder on these campaigns, led to a general trend of soldiers becoming increasingly loyal to their generals rather than to the state. rome was also plagued by several slave uprisings during this period, in part because vast tracts of land had been given over to slave farming in which the slaves greatly outnumbered their roman masters. in the 1st century bc at least twelve civil wars and rebellions occurred. this pattern continued until 27 bc, when octavian ( later augustus ) successfully challenged the senate's authority, and was made princeps ( first citizen ).
+Model answer Martin Luther's marriage allowed him to campaign abroad.
+Right answer = Protestant clergy to marry.
+
+
+№48
+Question: What are numbers greater than 1 that can be divided by 3 or more numbers called?
+Context ([0.]): a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself. a natural number greater than 1 that is not a prime number is called a composite number. for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. the fundamental theorem of arithmetic establishes the central role of primes in number theory : any integer greater than 1 can be expressed as a product of primes that is unique up to ordering. the uniqueness in this theorem requires excluding 1 as a prime because one can include arbitrarily many instances of 1 in any factorization, e. g., 3, 1 · 3, 1 · 1 · 3, etc. are all valid factorizations of 3.
+Model answer Numbers greater than 1 that can be divided by 3 or more numbers are called prime numbers.
+Right answer = primes
+
+
+№49
+Question: What tribes supported British?
+Context ([0.]): further south the southeast interior was dominated by siouan - speaking catawba, muskogee - speaking creek and choctaw, and the iroquoian - speaking cherokee tribes. when war broke out, the french used their trading connections to recruit fighters from tribes in western portions of the great lakes region ( an area not directly subject to the conflict between the french and british ), including the huron, mississauga, ojibwa, winnebago, and potawatomi. the british were supported in the war by the iroquois six nations, and also by the cherokee – until differences sparked the anglo - cherokee war in 1758. in 1758 the pennsylvania government successfully negotiated the treaty of easton, in which a number of tribes in the ohio country promised neutrality in exchange for land concessions and other considerations. most of the other northern tribes sided with the french, their primary trading partner and supplier of arms. the creek and cherokee were subject to diplomatic efforts by both the french and british to gain either their support or neutrality in the conflict. it was not uncommon for small bands to participate on the " other side " of the conflict from formally negotiated agreements, as most tribes were decentralized and bands made their own decisions about warfare.
+Model answer The British were supported in the war by the Iroquois Six Nations, and also by the Cherokee – until differences sparked the Anglo-Cherokee War in 1758. In 1758 the Pennsylvania government successfully negotiated the Treaty of Easton, in which a number of tribes in the Ohio Country promised neutrality in exchange for land concessions and other considerations. Most of the other northern tribes sided with the French, their primary trading partner and supplier of arms. The Creek and Cherokee were subject to diplomatic efforts by both the French and
+Right answer = Iroquois Six Nations, and also by the Cherokee
+
+
+№50
+Question: Who experimented by rolling stones and canonballs down a steep incline?
+Context ([0.]): the shortcomings of aristotelian physics would not be fully corrected until the 17th century work of galileo galilei, who was influenced by the late medieval idea that objects in forced motion carried an innate force of impetus. galileo constructed an experiment in which stones and cannonballs were both rolled down an incline to disprove the aristotelian theory of motion early in the 17th century. he showed that the bodies were accelerated by gravity to an extent that was independent of their mass and argued that objects retain their velocity unless acted on by a force, for example friction.
+Model answer Galileo Galilei.
+Right answer = Galileo Galilei
+
+
+№51
+Question: When did General Hospital first debut on ABC?
+Context ([279821.]): subsequently, californios ( dissatisfied with inequitable taxes and land laws ) and pro - slavery southerners in the lightly populated " cow counties " of southern california attempted three times in the 1850s to achieve a separate statehood or territorial status separate from northern california. the last attempt, the pico act of 1859, was passed by the california state legislature and signed by the state governor john b. weller. it was approved overwhelmingly by nearly 75 % of voters in the proposed territory of colorado. this territory was to include all the counties up to the then much larger tulare county ( that included what is now kings, most of kern, and part of inyo counties ) and san luis obispo county. the proposal was sent to washington, d. c. with a strong advocate in senator milton latham. however, the secession crisis following the election of abraham lincoln in 1860 led to the proposal never coming to a vote.
+Model answer General Hospital first debuted on ABC in 1963.
+Right answer = April 1, 1963
+
+
+№52
+Question: How much potential economic growth could the United States amass if everyone went through more schooling?
+Context ([0.]): in 2014, economists with the standard & poor's rating agency concluded that the widening disparity between the u. s.'s wealthiest citizens and the rest of the nation had slowed its recovery from the 2008 - 2009 recession and made it more prone to boom - and - bust cycles. to partially remedy the wealth gap and the resulting slow growth, s & p recommended increasing access to education. it estimated that if the average united states worker had completed just one more year of school, it would add an additional $ 105 billion in growth to the country's economy over five years.
+Model answer The United States could potentially amass an additional $105 billion in economic growth if everyone went through more schooling.
+Right answer = $105 billion
+
+
+№53
+Question: Which provinces in Canada limit the rights of pharmacists in prescribing?
+Context ([0.]): this shift has already commenced in some countries ; for instance, pharmacists in australia receive remuneration from the australian government for conducting comprehensive home medicines reviews. in canada, pharmacists in certain provinces have limited prescribing rights ( as in alberta and british columbia ) or are remunerated by their provincial government for expanded services such as medications reviews ( medschecks in ontario ). in the united kingdom, pharmacists who undertake additional training are obtaining prescribing rights and this is because of pharmacy education. they are also being paid for by the government for medicine use reviews. in scotland the pharmacist can write prescriptions for scottish registered patients of their regular medications, for the majority of drugs, except for controlled drugs, when the patient is unable to see their doctor, as could happen if they are away from home or the doctor is unavailable. in the united states, pharmaceutical care or clinical pharmacy has had an evolving influence on the practice of pharmacy. moreover, the doctor of pharmacy ( pharm. d. ) degree is now required before entering practice and some pharmacists now complete one or two years of residency or fellowship training following graduation. in addition, consultant pharmacists, who traditionally operated primarily in nursing homes are now expanding into direct consultation with patients, under the banner of " senior care pharmacy. "
+Model answer The provinces in Canada that limit the rights of pharmacists in prescribing are Alberta and British Columbia.
+Right answer = Alberta and British Columbia
+
+
+№54
+Question: What is the effect of beta decay?
+Context ([0.]): the weak force is due to the exchange of the heavy w and z bosons. its most familiar effect is beta decay ( of neutrons in atomic nuclei ) and the associated radioactivity. the word " weak " derives from the fact that the field strength is some 1013 times less than that of the strong force. still, it is stronger than gravity over short distances. a consistent electroweak theory has also been developed, which shows that electromagnetic forces and the weak force are indistinguishable at a temperatures in excess of approximately 1015 kelvins. such temperatures have been probed in modern particle accelerators and show the conditions of the universe in the early moments of the big bang.
+Model answer The effect of beta decay is the transformation of a neutron in an atomic nucleus into a proton, an electron, and an antineutrino. This process is accompanied by the emission of radiation, which is known as radioactivity.
+Right answer = radioactivity
+
+
+№55
+Question: What were the Saxon Palace and Brühl Palace in prewar Warsaw?
+Context ([0.]): exceptional examples of the bourgeois architecture of the later periods were not restored by the communist authorities after the war ( like mentioned kronenberg palace and insurance company rosja building ) or they were rebuilt in socialist realism style ( like warsaw philharmony edifice originally inspired by palais garnier in paris ). despite that the warsaw university of technology building ( 1899 – 1902 ) is the most interesting of the late 19th - century architecture. some 19th - century buildings in the praga district ( the vistula ’ s right bank ) have been restored although many have been poorly maintained. warsaw ’ s municipal government authorities have decided to rebuild the saxon palace and the bruhl palace, the most distinctive buildings in prewar warsaw.
+Model answer The Saxon Palace and Brühl Palace in prewar Warsaw were exceptional examples of the bourgeois architecture of the later periods. They were not restored by the communist authorities after the war, nor were they rebuilt in socialist realism style. Despite this, the Warsaw University of Technology Building (1899-1902) is the most interesting of the late 19th-century architecture. Some 19th-century buildings in the Praga district (the Vistula’s right bank) have been restored, although many have been poorly maintained. Warsaw
+Right answer = the most distinctive buildings
+
+
+Mean recall = 69.61
+Mean F1-score = 3.02
+Mean METEOR = 22.79
+Perplexity = 31.34
